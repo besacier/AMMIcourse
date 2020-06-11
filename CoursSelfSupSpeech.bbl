@@ -1,0 +1,127 @@
+\begin{thebibliography}{}
+
+\bibitem[Baevski et~al., 2019]{Baevski}
+Baevski, A., Auli, M., and Mohamed, A. (2019).
+\newblock Effectiveness of self-supervised pre-training for speech recognition.
+
+\bibitem[Chen et~al., 2020]{norouzi}
+Chen, T., Kornblith, S., Norouzi, M., and Hinton, G. (2020).
+\newblock A simple framework for contrastive learning of visual
+  representations.
+
+\bibitem[Chorowski et~al., 2019]{DBLP:journals/corr/abs-1901-08810}
+Chorowski, J., Weiss, R.~J., Bengio, S., and van~den Oord, A. (2019).
+\newblock Unsupervised speech representation learning using wavenet
+  autoencoders.
+\newblock {\em CoRR}, abs/1901.08810.
+
+\bibitem[Chung et~al., 2019]{DBLP:journals/corr/abs-1904-03240}
+Chung, Y., Hsu, W., Tang, H., and Glass, J.~R. (2019).
+\newblock An unsupervised autoregressive model for speech representation
+  learning.
+\newblock {\em CoRR}, abs/1904.03240.
+
+\bibitem[Chung and Glass, 2020]{chung2020improved}
+Chung, Y.-A. and Glass, J. (2020).
+\newblock Improved speech representations with multi-target autoregressive
+  predictive coding.
+
+\bibitem[Devlin et~al., 2018]{bert}
+Devlin, J., Chang, M., Lee, K., and Toutanova, K. (2018).
+\newblock {BERT:} pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em CoRR}, abs/1810.04805.
+
+\bibitem[Hinton and Salakhutdinov, 2006]{HinSal06}
+Hinton, G. and Salakhutdinov, R. (2006).
+\newblock Reducing the dimensionality of data with neural networks.
+\newblock {\em Science}, 313(5786):504 -- 507.
+
+\bibitem[Kahn et~al., 2019]{morgane}
+Kahn, J., Rivière, M., Zheng, W., Kharitonov, E., Xu, Q., Mazaré, P.-E.,
+  Karadayi, J., Liptchinsky, V., Collobert, R., Fuegen, C., Likhomanenko, T.,
+  Synnaeve, G., Joulin, A., Mohamed, A., and Dupoux, E. (2019).
+\newblock Libri-light: A benchmark for asr with limited or no supervision.
+
+\bibitem[Khurana et~al., 2020]{khurana2020convolutional}
+Khurana, S., Laurent, A., Hsu, W.-N., Chorowski, J., Lancucki, A., Marxer, R.,
+  and Glass, J. (2020).
+\newblock A convolutional deep markov model for unsupervised speech
+  representation learning.
+
+\bibitem[Kingma and Welling, 2013]{kingma2013autoencoding}
+Kingma, D.~P. and Welling, M. (2013).
+\newblock Auto-encoding variational bayes.
+
+\bibitem[Krishnan et~al., 2016]{krishnan2016structured}
+Krishnan, R.~G., Shalit, U., and Sontag, D. (2016).
+\newblock Structured inference networks for nonlinear state space models.
+
+\bibitem[Liu et~al., 2020]{Liu_2020}
+Liu, A.~T., Yang, S.-w., Chi, P.-H., Hsu, P.-c., and Lee, H.-y. (2020).
+\newblock Mockingjay: Unsupervised speech representation learning with deep
+  bidirectional transformer encoders.
+\newblock {\em ICASSP 2020 - 2020 IEEE International Conference on Acoustics,
+  Speech and Signal Processing (ICASSP)}.
+
+\bibitem[Park et~al., 2019]{Park_2019}
+Park, D.~S., Chan, W., Zhang, Y., Chiu, C.-C., Zoph, B., Cubuk, E.~D., and Le,
+  Q.~V. (2019).
+\newblock Specaugment: A simple data augmentation method for automatic speech
+  recognition.
+\newblock {\em Interspeech 2019}.
+
+\bibitem[Pascual et~al., 2019]{pascual2019}
+Pascual, S., Ravanelli, M., Serr{\`{a}}, J., Bonafonte, A., and Bengio, Y.
+  (2019).
+\newblock Learning problem-agnostic speech representations from multiple
+  self-supervised tasks.
+\newblock {\em CoRR}, abs/1904.03416.
+
+\bibitem[Ravanelli and Bengio, 2018]{syncnet2018}
+Ravanelli, M. and Bengio, Y. (2018).
+\newblock Speaker recognition from raw waveform with sincnet.
+
+\bibitem[Ravanelli et~al., 2020]{ravanelli2020multitask}
+Ravanelli, M., Zhong, J., Pascual, S., Swietojanski, P., Monteiro, J., Trmal,
+  J., and Bengio, Y. (2020).
+\newblock Multi-task self-supervised learning for robust speech recognition.
+
+\bibitem[Schneider et~al., 2019a]{Schneider2019}
+Schneider, S., Baevski, A., Collobert, R., and Auli, M. (2019a).
+\newblock {wav2vec: Unsupervised Pre-Training for Speech Recognition}.
+\newblock In {\em Proc. Interspeech 2019}, pages 3465--3469.
+
+\bibitem[Schneider et~al., 2019b]{DBLP:journals/corr/abs-1904-05862}
+Schneider, S., Baevski, A., Collobert, R., and Auli, M. (2019b).
+\newblock wav2vec: Unsupervised pre-training for speech recognition.
+\newblock {\em CoRR}, abs/1904.05862.
+
+\bibitem[Song et~al., 2019]{song2019speechxlnet}
+Song, X., Wang, G., Wu, Z., Huang, Y., Su, D., Yu, D., and Meng, H. (2019).
+\newblock Speech-xlnet: Unsupervised acoustic model pretraining for
+  self-attention networks.
+
+\bibitem[van~den Oord et~al., 2017]{NIPS2017_7210}
+van~den Oord, A., Vinyals, O., and kavukcuoglu, k. (2017).
+\newblock Neural discrete representation learning.
+\newblock In Guyon, I., Luxburg, U.~V., Bengio, S., Wallach, H., Fergus, R.,
+  Vishwanathan, S., and Garnett, R., editors, {\em Advances in Neural
+  Information Processing Systems 30}, pages 6306--6315. Curran Associates, Inc.
+
+\bibitem[Vaswani et~al., 2017]{Vaswani2017}
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.~N.,
+  Kaiser, L., and Polosukhin, I. (2017).
+\newblock Attention is all you need.
+\newblock {\em CoRR}, abs/1706.03762.
+
+\bibitem[Vincent et~al., 2008]{Vincent08extractingand}
+Vincent, P., Larochelle, H., Bengio, Y., and Manzagol, P.-A. (2008).
+\newblock Extracting and composing robust features with denoising autoencoders.
+
+\bibitem[Wang et~al., 2020]{wang2020unsupervised}
+Wang, W., Tang, Q., and Livescu, K. (2020).
+\newblock Unsupervised pre-training of bidirectional speech encoders via masked
+  reconstruction.
+
+\end{thebibliography}
