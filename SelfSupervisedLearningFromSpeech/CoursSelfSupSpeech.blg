@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: CoursSelfSupSpeech.aux
+The style file: apalike.bst
+Database file #1: laurent.bib
+Database file #2: mybib.bib
+Repeated entry---line 39 of file mybib.bib
+ : @article{bert
+ :              ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 768 of file mybib.bib
+ : booktitle = “Proceedings 
+ :                            of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)”,
+I'm skipping whatever remains of this entry
+Database file #3: refs.bib
+You've used 23 entries,
+            1935 wiz_defined-function locations,
+            813 strings with 11646 characters,
+and the built_in function-call counts, 9358 in all, are:
+= -- 856
+> -- 637
+< -- 6
++ -- 232
+- -- 225
+* -- 823
+:= -- 1744
+add.period$ -- 58
+call.type$ -- 23
+change.case$ -- 224
+chr.to.int$ -- 22
+cite$ -- 23
+duplicate$ -- 296
+empty$ -- 466
+format.name$ -- 256
+if$ -- 1727
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 11
+newline$ -- 106
+num.names$ -- 71
+pop$ -- 201
+preamble$ -- 1
+purify$ -- 224
+quote$ -- 0
+skip$ -- 244
+stack$ -- 0
+substring$ -- 389
+swap$ -- 33
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 138
+warning$ -- 0
+while$ -- 54
+width$ -- 0
+write$ -- 264
+(There were 2 error messages)

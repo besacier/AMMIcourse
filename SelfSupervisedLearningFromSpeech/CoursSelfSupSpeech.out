@@ -1,0 +1,10 @@
+\BOOKMARK [2][]{Outline0.1}{Introduction}{}% 1
+\BOOKMARK [2][]{Outline0.2}{Autoregressive predictive coding \(APC\)}{}% 2
+\BOOKMARK [2][]{Outline0.3}{Contrastive predictive coding \(CPC\)}{}% 3
+\BOOKMARK [2][]{Outline0.4}{Multiple self-supervised tasks}{}% 4
+\BOOKMARK [2][]{Outline0.5}{Encoder-decoder with bottleneck}{}% 5
+\BOOKMARK [2][]{Outline0.6}{Beyond left-to-right \(masked reconstruction\)}{}% 6
+\BOOKMARK [2][]{Outline0.7}{Probabilistic Latent Variable Models \(LVMs\)}{}% 7
+\BOOKMARK [2][]{Outline0.8}{Exemple of application for translation of un-transcribed speech}{}% 8
+\BOOKMARK [2][]{Outline0.9}{Takeaways}{}% 9
+\BOOKMARK [2][]{Outline0.10}{References}{}% 10

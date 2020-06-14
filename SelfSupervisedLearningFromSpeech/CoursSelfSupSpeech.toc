@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Autoregressive predictive coding (APC)}{8}{0}{2}
+\beamer@sectionintoc {3}{Contrastive predictive coding (CPC)}{12}{0}{3}
+\beamer@sectionintoc {4}{Multiple self-supervised tasks}{17}{0}{4}
+\beamer@sectionintoc {5}{Encoder-decoder with bottleneck}{24}{0}{5}
+\beamer@sectionintoc {6}{Beyond left-to-right (masked reconstruction)}{28}{0}{6}
+\beamer@sectionintoc {7}{Probabilistic Latent Variable Models (LVMs)}{35}{0}{7}
+\beamer@sectionintoc {8}{Exemple of application for translation of un-transcribed speech}{36}{0}{8}
+\beamer@sectionintoc {9}{Takeaways}{38}{0}{9}
