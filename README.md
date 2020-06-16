@@ -57,7 +57,7 @@ These are translations related to COVID-19 originally created by https://transla
 They were downloaded from this Kaggle Dataset (https://www.kaggle.com/alvations/covid19-translations/) shared by Liling Tang.
 It contains around 250 utterances related to COVID-19 information from doctors to patients.
 
-You should record sentences **in your native language** using Lig-AIkuma from the BTEC corpus. For this, use the **ellicitation (from text) mode** and record all Enlgish utterances **of the .tsv files** (261 utt) by translating them on-the-fly to your native language. Before that, you should **carefully fill the speaker metadata information**.
+You should record sentences **in your native language** using Lig-AIkuma from the BTEC corpus. For this, use the **ellicitation (from text) mode** and record from all English utterances **of the .tsv files** (261 utt) by translating them on-the-fly to your native language. Before that, you should **carefully fill the speaker metadata information**.
 
 
 
