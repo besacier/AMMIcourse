@@ -18,7 +18,7 @@ I will teach this course **on Fri 26th at 11am (GMT+2)** during the 2020 African
 
 Slides available soon.
 
-# Collecting data with mobile apps: project (10h)
+# 3. Collecting data with mobile apps: project (10h)
 
 By Laurent Besacier, Univ. Grenoble Alpes. You can do this project as a **pair** of students.
 
