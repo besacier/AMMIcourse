@@ -20,7 +20,7 @@ Slides available soon.
 
 # Collecting data with mobile apps: project (10h)
 
-By Laurent Besacier, Univ. Grenoble Alpes
+By Laurent Besacier, Univ. Grenoble Alpes. You can do this project as a **pair** of students.
 
 **Todo before starting the project (3-4h)**
 
