@@ -28,7 +28,7 @@ The steps below must be done on your own **Mon 22d between 2pm and 5pm (GMT+2)**
 
 (1) install lig-aikuma on your tablet or smartphone: https://lig-aikuma.imag.fr/download/
 
-(2) watch the video tutorial online on: https://lig-aikuma.imag.fr/tutorial/
+(2) watch the video tutorial (French with English CCs !) online on: https://lig-aikuma.imag.fr/tutorial/
  
 (3) read the documentation available on: https://lig-aikuma.imag.fr/wp-content/uploads/2017/06/LIG-Aikuma_tutorial.pdf
 
