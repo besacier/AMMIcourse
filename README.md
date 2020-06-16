@@ -26,15 +26,16 @@ By Laurent Besacier, Univ. Grenoble Alpes. You can do this project as a **pair**
 
 The steps below must be done on your own **Mon 22d between 2pm and 5pm (GMT+2)**
 
-(1) install lig-aikuma on your tablet or smartphone: https://lig-aikuma.imag.fr/download/
+(1) read the lig-aikuma publication on : https://hal.archives-ouvertes.fr/hal-02264418/document 
 
-(2) watch the video tutorial (French with English CCs !) online on: https://lig-aikuma.imag.fr/tutorial/
+(2) install lig-aikuma on your tablet or smartphone: https://lig-aikuma.imag.fr/download/
+
+(3) watch the video tutorial (French with English CCs !) online on: https://lig-aikuma.imag.fr/tutorial/
  
-(3) read the documentation available on: https://lig-aikuma.imag.fr/wp-content/uploads/2017/06/LIG-Aikuma_tutorial.pdf
+(4) read the documentation available on: https://lig-aikuma.imag.fr/wp-content/uploads/2017/06/LIG-Aikuma_tutorial.pdf
 
-(4) do the 90mn tutorial on : https://lig-aikuma.imag.fr/lig-aikuma-in-90mn/ 
+(5) do the 90mn tutorial on : https://lig-aikuma.imag.fr/lig-aikuma-in-90mn/ 
 
-(5) read the lig-aikuma publication on : https://hal.archives-ouvertes.fr/hal-02264418/document 
 
 **Project itself (6h)**
 
