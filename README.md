@@ -22,7 +22,9 @@ Slides available soon.
 
 By Laurent Besacier, Univ. Grenoble Alpes
 
-**Todo before starting the project (4h)**
+**Todo before starting the project (3-4h)**
+
+The steps below must be done on your own **Mon 22d between 2pm and 5pm (GMT+2)**
 
 (1) install lig-aikuma on your tablet or smartphone: https://lig-aikuma.imag.fr/download/
 
@@ -37,6 +39,8 @@ By Laurent Besacier, Univ. Grenoble Alpes
 **Project itself (6h)**
 
 I will be online on **Tue 23d, Wed 24th, Thur 25th at 2pm (GMT+2)** for Q&A on this project. 
+
+
  
 
 
