@@ -62,7 +62,8 @@ You should record sentences **in your native language** using Lig-AIkuma from th
 
 **project return for assessment**
 You should share all your recordings on a github page and add a README file that reports your data collection details: number of recordings made, problems encoutered during recording, comments, etc.
-Once data and README are ready, please send me an email to **laurent.besacier@imag.fr** and i will clone your repo
+Once data and README are ready, please send me an email to **laurent.besacier@imag.fr** and i will clone your repo into https://github.com/besacier/AMMIcourse/tree/master/STUDENTS-RETURN 
+You will be evaluated based on the quality and quantity of data recorded (and metadata provided).
 
  
 
