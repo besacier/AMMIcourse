@@ -60,7 +60,9 @@ It contains around 250 utterances related to COVID-19 information from doctors t
 You should record sentences **in your native language** using Lig-AIkuma from the BTEC corpus. For this, use the **ellicitation (from text) mode** and record from all English utterances **of the .tsv files** (261 utt) by translating them on-the-fly to your native language. Before that, you should **carefully fill the speaker metadata information**.
 
 
-
+**project return for assessment**
+You should share all your recordings on a github page and add a README file that reports your data collection details: number of recordings made, problems encoutered during recording, comments, etc.
+Once data and README are ready, please send me an email to **laurent.besacier@imag.fr** and i will clone your repo
 
  
 
