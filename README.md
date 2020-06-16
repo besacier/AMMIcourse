@@ -4,7 +4,7 @@
 
 By Laurent Besacier, Univ. Grenoble Alpes
 
-I will teach this course during the 2020 African Master’s in Machine Intelligence (https://aimsammi.org). 
+I will teach this course **on Wed 24th at 11am (GMT+2)** during the 2020 African Master’s in Machine Intelligence (https://aimsammi.org). 
 
 Such approaches are very important to reduce dependence on labeled data for building speech systems. This is particularly relevant for languages with poorly standardized orthography or even for unwritten languages. 
 
@@ -14,7 +14,7 @@ See course here: https://github.com/besacier/AMMIcourse/edit/master/SelfSupervis
 
 By Laurent Besacier, Univ. Grenoble Alpes
 
-I will teach this course during the 2020 African Master’s in Machine Intelligence (https://aimsammi.org). 
+I will teach this course **on Fri 26th at 11am (GMT+2)** during the 2020 African Master’s in Machine Intelligence (https://aimsammi.org). 
 
 Slides available soon.
 
@@ -36,7 +36,7 @@ By Laurent Besacier, Univ. Grenoble Alpes
 
 **Project itself (6h)**
 
-tba
+I will be online on **Tue 23d, Wed 24th, Thur 25th at 2pm (GMT+2)** for Q&A on this project. 
  
 
 
