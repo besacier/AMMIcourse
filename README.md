@@ -49,6 +49,8 @@ You should first gather a text (in your own language) to be read. To record 2h o
 
 You should record sentences **in your native language** using Lig-AIkuma. For this, use the **ellicitation (from text) mode** and record utterances. Before that, you should **carefully fill the speaker metadata information**.
 
+The final recordings should be split in two parts **dev and test** of 1h each.
+
 **part 2 (collecting raw speech)**
 
 You should ellicitate additional raw speech **in your native language** using Lig-AIkuma. For this, use the **ellicitation (from text or image) mode**. One possibility is to describe images of your choice or record from the following English utterances (https://github.com/besacier/AMMIcourse/blob/master/BTEC-en-fr.ammi.zip). Before that, you should **carefully fill the speaker metadata information**.
