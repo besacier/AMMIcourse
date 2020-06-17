@@ -54,9 +54,10 @@ You should record sentences **in your native language** using Lig-AIkuma. For th
 You should ellicitate additional raw speech **in your native language** using Lig-AIkuma. For this, use the **ellicitation (from text or image) mode**. One possibility is to describe images of your choice or record from the following English utterances (https://github.com/besacier/AMMIcourse/blob/master/BTEC-en-fr.ammi.zip). Before that, you should **carefully fill the speaker metadata information**.
 
 
-**project return for assessment**
+**dataset return for assessment**
 
-You should share all your recordings on a github page and add a README file that reports your data collection details: number of recordings made, problems encoutered during recording, comments, etc.
+You should share all your recordings and transcripts on a github page and add a README file that reports your data collection details: number of recordings made, problems encoutered during recording, comments, etc.
+In case you would agree to share your recorded dataset for future research, please add a LICENSE file to your github repo. Examples of license types are MIT (see https://github.com/getalp/mass-dataset/blob/master/LICENSE for an example) or "Creative Commons" (see https://github.com/getalp/Flaubert/blob/master/LICENSE for an example).
 Once data and README are ready, please send an email to **laurent.besacier@imag.fr** and i will clone your repo into https://github.com/besacier/AMMIcourse/tree/master/STUDENTS-RETURN 
 You will be evaluated based on the quality and quantity of data recorded (and metadata provided).
 
