@@ -1,6 +1,6 @@
 # AMMI Course - laurent besacier - week 2
 
-# 1. Lecture on self supervised representation learning from pre-training speech models (3h)
+# 1. Lecture on self supervised representation learning for pre-training speech systems (3h)
 
 By Laurent Besacier, Univ. Grenoble Alpes
 
