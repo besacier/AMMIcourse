@@ -14,11 +14,11 @@ See course here: https://github.com/besacier/AMMIcourse/edit/master/SelfSupervis
 
 By Laurent Besacier, Univ. Grenoble Alpes
 
-I will teach this course **on Fri 26th, lecture review and Q&A at 4pm (GMT+2)** during the 2020 African Master’s in Machine Intelligence (https://aimsammi.org). 
+This course is scheduled on **on Thur 25th, lecture review and Q&A at 4pm (GMT+2)** during the 2020 African Master’s in Machine Intelligence (https://aimsammi.org). 
 
 Slides available soon.
 
-# 3. Collecting data with mobile apps: project (6h)
+# 3. Data collection project (6h)
 
 By Laurent Besacier, Univ. Grenoble Alpes. 
 
@@ -39,15 +39,15 @@ The steps below must be done on your own **Mon 22d between 4pm and 7pm (GMT+2)**
 
 **Project itself (3h)**
 
-I will be online on **Tue 23d, Wed 24th, at 4pm (GMT+2)** for Q&A on this project. 
+I will be online on **Tue 23d, Wed 24th, at 5pm (GMT+2)** for Q&A on this project. 
 
 You must at least achieve part 1 of this project (part 2 is optional)
 
 **part 1 (collecting 2h of read speech in your own language)**
 
-You should first gather a text (in your own language) to be read. To record 2h of speech, this text should be at least 20,000 words long.
+You should first gather a text (in your own language) to be read. To record 2h of speech, this text should be at least 20,000 words long and be tokenized in senttences.
 
-You should record sentences **in your native language** using Lig-AIkuma from the BTEC corpus. For this, use the **ellicitation (from text) mode** and record utterances. Before that, you should **carefully fill the speaker metadata information**.
+You should record sentences **in your native language** using Lig-AIkuma. For this, use the **ellicitation (from text) mode** and record utterances. Before that, you should **carefully fill the speaker metadata information**.
 
 **part 2 (collecting raw speech)**
 
@@ -57,7 +57,7 @@ You should ellicitate additional raw speech **in your native language** using Li
 **project return for assessment**
 
 You should share all your recordings on a github page and add a README file that reports your data collection details: number of recordings made, problems encoutered during recording, comments, etc.
-Once data and README are ready, please send me an email to **laurent.besacier@imag.fr** and i will clone your repo into https://github.com/besacier/AMMIcourse/tree/master/STUDENTS-RETURN 
+Once data and README are ready, please send an email to **laurent.besacier@imag.fr** and i will clone your repo into https://github.com/besacier/AMMIcourse/tree/master/STUDENTS-RETURN 
 You will be evaluated based on the quality and quantity of data recorded (and metadata provided).
 
  
