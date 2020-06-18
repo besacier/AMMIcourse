@@ -1,6 +1,6 @@
 # AMMI Course - laurent besacier - week 2
 
-# 1. Lecture on self supervised representation learning from pre-training speech models (3h)
+# 1. Lecture on self supervised representation learning for pre-training speech systems (3h)
 
 By Laurent Besacier, Univ. Grenoble Alpes
 
@@ -49,9 +49,11 @@ You should first gather a text (in your own language) to be read. To record 2h o
 
 You should record sentences **in your native language** using Lig-AIkuma. For this, use the **ellicitation (from text) mode** and record utterances. Before that, you should **carefully fill the speaker metadata information**.
 
+The final recordings should be split in two parts **dev and test** of 1h each.
+
 **part 2 (collecting raw speech)**
 
-You should ellicitate additional raw speech **in your native language** using Lig-AIkuma. For this, use the **ellicitation (from text or image) mode**. One possibility is to describe images of your choice or record from the following English utterances (https://github.com/besacier/AMMIcourse/blob/master/BTEC-en-fr.ammi.zip). Before that, you should **carefully fill the speaker metadata information**.
+You should ellicitate additional raw speech **in your native language** using Lig-AIkuma. For this, use the **ellicitation (from text or image) mode**. One possibility is to describe images of your choice or record from the following English utterances (https://github.com/besacier/AMMIcourse/blob/master/BTEC-en-fr.ammi.zip) or simply find pre-existing spoken corpora. Before that, you should **carefully fill the speaker metadata information**.
 
 
 **dataset return for assessment**
