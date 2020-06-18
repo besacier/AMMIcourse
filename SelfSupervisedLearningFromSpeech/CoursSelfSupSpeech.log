@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.1)  11 JUN 2020 16:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.1)  18 JUN 2020 11:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1426,11 +1426,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 \tf@snm=\write11
 \openout11 = `CoursSelfSupSpeech.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 868.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 868.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 869.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 869.
  (./CoursSelfSupSpeech.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 868.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 868.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 869.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 869.
 Package rerunfilecheck Info: File `CoursSelfSupSpeech.out' has not changed.
 (rerunfilecheck)             Checksum: 1FA7E9DE97C2284298EBC8DA2ED7449C;675.
 
@@ -1461,7 +1461,7 @@ cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
 al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local
 /texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
 exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on CoursSelfSupSpeech.pdf (42 pages, 3894621 bytes).
+Output written on CoursSelfSupSpeech.pdf (42 pages, 3895264 bytes).
 PDF statistics:
  1451 PDF objects out of 1728 (max. 8388607)
  1325 compressed objects within 14 object streams
