@@ -66,7 +66,7 @@ You will be evaluated based on the quality and quantity of data recorded (and me
  
 **IMPORTANT**
 
-If you encounter problems with lig-aikuma (no android phone/tablet to install it, problem with installation), you can use another recording software of your choice. For instance this [one] (https://www.phon.ucl.ac.uk/resource/prorec/) (windows only) or this [one] (https://www.bas.uni-muenchen.de/Bas/software/speechrecorder/) (multiplatform) allow you to upload text prompts and then record them.
+If you encounter problems with lig-aikuma (no android phone/tablet to install it, problem with installation), you can use another recording software of your choice. For instance https://www.phon.ucl.ac.uk/resource/prorec/ (windows only) or  https://www.bas.uni-muenchen.de/Bas/software/speechrecorder/ (multiplatform) allow you to upload text prompts and then record them.
 
 
 
