@@ -14,7 +14,7 @@ See course here: https://github.com/besacier/AMMIcourse/edit/master/SelfSupervis
 
 By Laurent Besacier, Univ. Grenoble Alpes
 
-This course is scheduled on **on Thur 25th, lecture review and Q&A at 4pm (GMT+2)** during the 2020 African Master’s in Machine Intelligence (https://aimsammi.org). 
+This course is scheduled on **on Fri 26th, in a reading group mode at 11am (GMT+2)** during the 2020 African Master’s in Machine Intelligence (https://aimsammi.org). 
 
 Slides available soon.
 
