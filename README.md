@@ -45,7 +45,7 @@ You must at least achieve part 1 of this project (part 2 is optional)
 
 **part 1 (collecting 2h of read speech in your own language)**
 
-You should first gather a text (in your own language) to be read. To record 2h of speech, this text should be at least 20,000 words long and be tokenized in senttences.
+You should first gather a text (in your own language) to be read. To record 2h of speech, this text should be at least 20,000 words long and be tokenized in sentences.
 
 You should record sentences **in your native language** using Lig-AIkuma. For this, use the **ellicitation (from text) mode** and record utterances. Before that, you should **carefully fill the speaker metadata information**.
 
