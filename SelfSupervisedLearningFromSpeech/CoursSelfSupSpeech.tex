@@ -278,7 +278,7 @@ Following the BERT~\cite{bert} paradigm
 				\end{itemize}
 			\item Model is optimized by minimizing the L1 loss between input sequence $(t_1,t_2,...,t_T )$ and the predicted sequence $(y_1,y_2,...,y_T )$:
 				\begin{equation}
-				\sum_{i=1}^{T-n} | t_{i+n}-y_i |
+				\sum_{i=1}^{T-n} | t_i-y_i |,t_i=x_{i+n}
 				\end{equation}			
 		\end{itemize} 
 \end{itemize} 
@@ -650,7 +650,7 @@ where T is the sequence length
 			\item BERT-like autoencoding (AE) scheme to train a bi-directional speech representation model (not only left-to-right)
 			\item Mask and reconstruct speech frames rather than word tokens (regression instead of classification task)
 			\item Encourage network to learn global structures by shuffling speech frame orders (can be also seen as dynamic data augmentation)
-			\item Training using a Mean Absolute Error (MAE) loss (that combines L1 and L2 losses) over several permutations of the input frames
+			\item Training using a Mean Absolute Error (MAE) loss over several permutations of the input frames
 		\end{itemize} 
 \end{frame}
 
@@ -660,7 +660,7 @@ where T is the sequence length
 
 		\begin{itemize}
 			\item Experiments on Hybrid and end-to-end ASR
-			\item Hybrid ASR on TIMIT are reported below
+			\item Results of Hybrid ASR on TIMIT are reported below
 		\end{itemize} 
 
 
