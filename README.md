@@ -10,6 +10,16 @@ Such approaches are very important to reduce dependence on labeled data for buil
 
 See course here: https://github.com/besacier/AMMIcourse/edit/master/SelfSupervisedLearningFromSpeech
 
+Here is the link to the **videos** of my course:
+Part1: https://youtu.be/Ka-eNfGFEeE
+Part2: https://youtu.be/cfEyLLcvoQ8 
+Part3: https://youtu.be/pWAJORFey-E 
+Part4: https://youtu.be/m_mkUUs99X4
+Part5: https://youtu.be/v5qhyJT-Ga4 
+Part6: https://youtu.be/naL5noNnKfc 
+Part7: https://youtu.be/hE9ODFChrvI 
+
+
 # 2. Beyond sentences: lecture / reading group on on-line speech transcription and translation and on dialog level speech transcription and translation (3h)
 
 By Laurent Besacier, Univ. Grenoble Alpes
