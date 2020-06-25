@@ -43,7 +43,7 @@ By Laurent Besacier, Univ. Grenoble Alpes
 
 This course is scheduled on **on Fri 26th, in a reading group mode at 11am (GMT+2)** during the 2020 African Master’s in Machine Intelligence (https://aimsammi.org). 
 
-Slides available soon.
+Slides available here: https://github.com/besacier/AMMIcourse/blob/master/readinggroup.pdf
 
 # 3. Data collection project (6h)
 
