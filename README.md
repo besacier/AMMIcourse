@@ -26,6 +26,16 @@ Part6: https://youtu.be/naL5noNnKfc
 
 Part7: https://youtu.be/hE9ODFChrvI 
 
+Q&A part1: https://youtu.be/1a3h4-LnUms
+
+Q&A part2: https://youtu.be/sLeSYaNxKUM
+
+Q&A part3: https://youtu.be/mbXgfOaA6GI
+
+Q&A part4: https://youtu.be/3MJtyHfzNv0
+
+Q&A part5: https://youtu.be/LqYCswM8rec
+
 
 # 2. Beyond sentences: lecture / reading group on on-line speech transcription and translation and on dialog level speech transcription and translation (3h)
 
