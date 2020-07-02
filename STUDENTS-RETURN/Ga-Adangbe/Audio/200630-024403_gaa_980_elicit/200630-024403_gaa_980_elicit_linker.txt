@@ -1,0 +1,7 @@
+/storage/emulated/0/aikuma-no-sync/items/Session15.1.txt (line 1) ; /storage/emulated/0/ligaikuma/recordings/200630-024403_gaa_980_elicit/200630-024403_gaa_980_elicit_0.wav
+/storage/emulated/0/aikuma-no-sync/items/Session15.1.txt (line 2) ; /storage/emulated/0/ligaikuma/recordings/200630-024403_gaa_980_elicit/200630-024403_gaa_980_elicit_1.wav
+/storage/emulated/0/aikuma-no-sync/items/Session15.1.txt (line 3) ; /storage/emulated/0/ligaikuma/recordings/200630-024403_gaa_980_elicit/200630-024403_gaa_980_elicit_2.wav
+/storage/emulated/0/aikuma-no-sync/items/Session15.1.txt (line 4) ; /storage/emulated/0/ligaikuma/recordings/200630-024403_gaa_980_elicit/200630-024403_gaa_980_elicit_3.wav
+/storage/emulated/0/aikuma-no-sync/items/Session15.1.txt (line 5) ; /storage/emulated/0/ligaikuma/recordings/200630-024403_gaa_980_elicit/200630-024403_gaa_980_elicit_4.wav
+/storage/emulated/0/aikuma-no-sync/items/Session15.1.txt (line 6) ; /storage/emulated/0/ligaikuma/recordings/200630-024403_gaa_980_elicit/200630-024403_gaa_980_elicit_5.wav
+/storage/emulated/0/aikuma-no-sync/items/Session15.1.txt (line 7) ; /storage/emulated/0/ligaikuma/recordings/200630-024403_gaa_980_elicit/200630-024403_gaa_980_elicit_6.wav

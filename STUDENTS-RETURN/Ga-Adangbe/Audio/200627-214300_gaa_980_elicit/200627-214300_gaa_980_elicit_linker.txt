@@ -1,0 +1,12 @@
+/storage/emulated/0/aikuma-no-sync/items/Session4.2.txt (line 1) ; /storage/emulated/0/ligaikuma/recordings/200627-214300_gaa_980_elicit/200627-214300_gaa_980_elicit_0.wav
+/storage/emulated/0/aikuma-no-sync/items/Session4.2.txt (line 2) ; /storage/emulated/0/ligaikuma/recordings/200627-214300_gaa_980_elicit/200627-214300_gaa_980_elicit_1.wav
+/storage/emulated/0/aikuma-no-sync/items/Session4.2.txt (line 3) ; /storage/emulated/0/ligaikuma/recordings/200627-214300_gaa_980_elicit/200627-214300_gaa_980_elicit_2.wav
+/storage/emulated/0/aikuma-no-sync/items/Session4.2.txt (line 4) ; /storage/emulated/0/ligaikuma/recordings/200627-214300_gaa_980_elicit/200627-214300_gaa_980_elicit_3.wav
+/storage/emulated/0/aikuma-no-sync/items/Session4.2.txt (line 5) ; /storage/emulated/0/ligaikuma/recordings/200627-214300_gaa_980_elicit/200627-214300_gaa_980_elicit_4.wav
+/storage/emulated/0/aikuma-no-sync/items/Session4.2.txt (line 6) ; /storage/emulated/0/ligaikuma/recordings/200627-214300_gaa_980_elicit/200627-214300_gaa_980_elicit_5.wav
+/storage/emulated/0/aikuma-no-sync/items/Session4.2.txt (line 7) ; /storage/emulated/0/ligaikuma/recordings/200627-214300_gaa_980_elicit/200627-214300_gaa_980_elicit_6.wav
+/storage/emulated/0/aikuma-no-sync/items/Session4.2.txt (line 8) ; /storage/emulated/0/ligaikuma/recordings/200627-214300_gaa_980_elicit/200627-214300_gaa_980_elicit_7.wav
+/storage/emulated/0/aikuma-no-sync/items/Session4.2.txt (line 9) ; /storage/emulated/0/ligaikuma/recordings/200627-214300_gaa_980_elicit/200627-214300_gaa_980_elicit_8.wav
+/storage/emulated/0/aikuma-no-sync/items/Session4.2.txt (line 10) ; /storage/emulated/0/ligaikuma/recordings/200627-214300_gaa_980_elicit/200627-214300_gaa_980_elicit_9.wav
+/storage/emulated/0/aikuma-no-sync/items/Session4.2.txt (line 11) ; /storage/emulated/0/ligaikuma/recordings/200627-214300_gaa_980_elicit/200627-214300_gaa_980_elicit_10.wav
+/storage/emulated/0/aikuma-no-sync/items/Session4.2.txt (line 12) ; /storage/emulated/0/ligaikuma/recordings/200627-214300_gaa_980_elicit/200627-214300_gaa_980_elicit_11.wav

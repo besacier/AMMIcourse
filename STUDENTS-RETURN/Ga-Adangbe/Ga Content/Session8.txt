@@ -1,0 +1,67 @@
+##ekome
+##enyɔ 
+##etɛ 
+##ejwɛ
+##enumɔ 
+##ekpaa 
+##kpawo 
+##kpaanyɔ 
+##nɛɛhu
+##nyɔŋma
+##klɛŋklɛŋ
+##nɔ ni ji enyɔ
+##nɔ ni ji etɛ
+##nɔ ni ji ejwɛ
+##nɔ ni ji enumɔ
+##nɔ ni ji ekpaa
+##nɔ ni ji kpawo
+##nɔ ni ji kpaanyɔ
+##nɔ ni ji nɛɛhu
+##nɔ ni ji nyɔŋma
+##nyɔŋma kɛ ekome 
+##nyɔŋma kɛ enyɔ
+##nyɔŋma kɛ etɛ
+##nyɔŋma kɛ ejwɛ
+##nyɔŋma kɛ enumɔ
+##nyɔŋma kɛ ekpaa
+##nyɔŋma kɛ kpawo
+##nyɔŋma kɛ kpaanyɔ
+##nyɔŋma kɛ nɛɛhu
+##nyɔŋmai-enyɔ
+##nyɔŋmai-enyɔ kɛ ekome
+##nyɔŋmai-enyɔ kɛ enyɔ
+##nyɔŋmai-enyɔ kɛ etɛ
+##nyɔŋmai-enyɔ kɛ ejwɛ
+##nyɔŋmai-enyɔ kɛ enumɔ
+##nyɔŋmai-enyɔ kɛ ekpaa
+##nyɔŋmai-enyɔ kɛ kpawo
+##nyɔŋmai-enyɔ kɛ kpaanyɔ
+##nyɔŋmai-enyɔ kɛ nɛɛhu
+##nyɔŋmai-etɛ
+##nyɔŋmai-ejwɛ
+##nyɔŋmai-enumɔ
+##nyɔŋmai-ekpaa
+##nyɔŋmai-kpawo
+##nyɔŋmai-kpaanyɔ
+##nyɔŋmai-nɛɛhu
+##oha
+##oha kɛ ekome
+##oha kɛ nyɔŋmai-etɛ kɛ etɛ
+##ohai enyɔ
+##ohai etɛ
+##ohai ejwɛ
+##ohai enumɔ
+##ohai ekpaa
+##ohai kpawo
+##ohai kpaanyɔ
+##ohai nɛɛhu
+##akpe
+##akpei enyɔ
+##akpei nyɔŋma
+##milio, akpei-akpe
+##fã
+##shii kome
+##shii enyɔ
+##shii nyɔŋma kɛ ekome
+##shii oha
+##shii abɔ
