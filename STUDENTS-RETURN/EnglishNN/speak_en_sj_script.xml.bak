@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE script SYSTEM "SpeechRecPrompts_4.dtd">
+<script id="Example script">
+	<metadata>
+		<key>
+			DatabaseName
+		</key>
+		<value>
+			SpeechRecorder Demonstration
+		</value>
+		<key>
+			ScriptName
+		</key>
+		<value>
+			SpeechRecorder Sample Recording Script
+		</value>
+		<key>
+			ScriptAuthor
+		</key>
+		<value>
+			Chr. Draxler, Phonetics Institute, University of Munich
+		</value>
+		<key>
+			EmailAuthor
+		</key>
+		<value>
+			draxler@phonetik.uni-muenchen.de
+		</value>
+	</metadata>
+	<recordingscript>
+		<section mode="manual" name="Introduction" order="sequential"
+			promptphase="idle" speakerdisplay="false">
+			<recording itemcode="demo_000" postrecdelay="500"
+				prerecdelay="2000" recduration="20000">
+				<recprompt>
+					<mediaitem languageISO639code="en">Welcome to the
+						SpeechRecorder Demo Script.</mediaitem>
+				</recprompt>
+			</recording>
+			<recording itemcode="demo_001" postrecdelay="500"
+				prerecdelay="2000" recduration="20000">
+				<recinstructions mimetype="text/plain"> Here you'll find the
+					instructions... 			</recinstructions>
+				<recprompt>
+					<mediaitem languageISO639code="en">and here is the prompt: a
+						text to read, a question to answer, a picture to describe, or
+						something completely different.</mediaitem>
+				</recprompt>
+			</recording>
+			<recording itemcode="demo_002" postrecdelay="500"
+				prerecdelay="2000" recduration="20000">
+				<recprompt>
+					<mediaitem languageISO639code="en">The recording script is
+						divided into sections. In this introductory section,
+						no speaker display is shown and the prompt items appear in the order
+						in which they are in the recording script file.
+					</mediaitem>
+				</recprompt>
+			</recording>
+			<recording itemcode="demo_003" postrecdelay="500"
+				prerecdelay="2000" recduration="20000">
+				<recprompt>
+					<mediaitem languageISO639code="en">In the next section, a
+						speaker display will appear,
+						the recordings progress automatically, and
+						the items are selected in random order.
+					</mediaitem>
+				</recprompt>
+			</recording>
+		</section>
+		<section mode="autoprogress" name="Recording Session"
+			order="random" promptphase="idle" speakerdisplay="true">
+			<recording itemcode="demo_010" postrecdelay="500"
+				prerecdelay="2000" recduration="20000">
+				<recinstructions mimetype="text/plain">Please read the digits</recinstructions>
+				<recprompt>
+					<mediaitem annotationTemplate="true">2 7 4 1 6 8 3 9 5 0
+					</mediaitem>
+				</recprompt>
+			</recording>
+			<recording itemcode="demo_012" postrecdelay="500"
+				prerecdelay="2000" recduration="60000">
+				<recinstructions mimetype="text/plain">Please answer</recinstructions>
+				<recprompt>
+					<mediaitem languageISO639code="en">How did you get here today?
+					</mediaitem>
+				</recprompt>
+			</recording>
+			<recording itemcode="demo_013" postrecdelay="500"
+				prerecdelay="2000" recduration="10000">
+				<recinstructions mimetype="text/plain"> Please read the
+					bi-lingual sentence 			</recinstructions>
+				<recprompt>
+					<mediaitem>And then he said to me: "もう一度ダイヤルします"</mediaitem>
+				</recprompt>
+				<reccomment> Expected pronunciation: mou ichido DIAL shimasu 			</reccomment>
+			</recording>
+			<recording itemcode="demo_020" postrecdelay="500"
+				prerecdelay="2000" recduration="20000">
+				<recinstructions mimetype="text/plain">Bitte antworten Sie</recinstructions>
+				<recprompt>
+					<mediaitem languageISO639code="de">Wie heißen Sie?</mediaitem>
+				</recprompt>
+			</recording>
+			<recording itemcode="demo_022" postrecdelay="500"
+				prerecdelay="2000" recduration="10000">
+				<recinstructions mimetype="text/plain">Bitte ergänzen Sie</recinstructions>
+				<recprompt>
+					<mediaitem languageISO639code="de">Morgenstund hat ...
+					</mediaitem>
+				</recprompt>
+				<annotationtemplate languageISO639code="de">Gold im
+					Mund</annotationtemplate>
+			</recording>
+			<recording itemcode="demo_030" postrecdelay="500"
+				prerecdelay="2000" recduration="60000">
+				<recinstructions mimetype="text/plain">Répondez s'il vous plaît</recinstructions>
+				<recprompt>
+					<mediaitem languageISO639code="fr">Qu'est-ce que vous avez
+						fait hier soir?</mediaitem>
+				</recprompt>
+				<reccomment>Answer expected in French; one minute recording time	</reccomment>
+			</recording>
+			<recording itemcode="demo_031" postrecdelay="500"
+				prerecdelay="2000" recduration="10000">
+				<recinstructions mimetype="text/plain">Lisez la phrase</recinstructions>
+				<recprompt>
+					<mediaitem annotationTemplate="true"
+						languageISO639code="fr">A Paris il y a 14 lignes de métro dont 9
+						traversent la Seine.</mediaitem>
+				</recprompt>
+				<reccomment> French sentence: In Paris there are 14 metro lines, 9
+					of which cross the Seine. 			</reccomment>
+			</recording>
+			<recording itemcode="demo_040" postrecdelay="500"
+				prerecdelay="2000" recduration="10000">
+				<recinstructions mimetype="text/plain"> Var snäll och läs 			</recinstructions>
+				<recprompt>
+					<mediaitem annotationTemplate="true"
+						languageISO639code="sv">Det är vackert vårväder idag</mediaitem>
+				</recprompt>
+				<reccomment>Swedish sentence: Today is nice Spring weather.</reccomment>
+			</recording>
+			<recording itemcode="demo_041" postrecdelay="500"
+				prerecdelay="2000" recduration="10000">
+				<recinstructions mimetype="text/plain">Var snäll och bokstavera</recinstructions>
+				<recprompt>
+					<mediaitem annotationTemplate="true"
+						languageISO639code="sv">M O R G O N S T U N D</mediaitem>
+				</recprompt>
+				<reccomment>Swedish spelling</reccomment>
+			</recording>
+			<recording itemcode="demo_042" postrecdelay="500"
+				prerecdelay="2000" recduration="10000">
+				<recinstructions mimetype="text/plain">Var snäll och svara på
+					följande fråga</recinstructions>
+				<recprompt>
+					<mediaitem languageISO639code="sv">Vad har du gjort under den
+						senaste timmen?</mediaitem>
+				</recprompt>
+				<reccomment>Swedish question: What did you do during the past hour?</reccomment>
+			</recording>
+			<recording itemcode="demo_050" postrecdelay="500"
+				prerecdelay="2000" recduration="10000">
+				<recinstructions mimetype="text/plain">Lue</recinstructions>
+				<recprompt>
+					<mediaitem annotationTemplate="true"
+						languageISO639code="fi">Maanantai 24. huhtikuuta 2005</mediaitem>
+				</recprompt>
+				<reccomment>Finnish date phrase</reccomment>
+			</recording>
+			<recording itemcode="demo_051" postrecdelay="500"
+				prerecdelay="2000" recduration="10000">
+				<recinstructions mimetype="text/plain">Vastaa kysymykseen</recinstructions>
+				<recprompt>
+					<mediaitem languageISO639code="fi">Mikä on nimesi?</mediaitem>
+				</recprompt>
+				<reccomment>Finnish question: What is your name?</reccomment>
+			</recording>
+			<recording itemcode="demo_052" postrecdelay="500"
+				prerecdelay="2000" recduration="60000">
+				<recinstructions mimetype="text/plain">Vastaa kysymykseen</recinstructions>
+				<recprompt>
+					<mediaitem languageISO639code="fi">Mitä syöt mieluiten
+						aamiaiseksi? (sinulla on yksi minuutti aikaa)</mediaitem>
+				</recprompt>
+				<reccomment> Finnish question: What do you like best for breakfast?</reccomment>
+			</recording>
+			<recording itemcode="demo_061" postrecdelay="500"
+				prerecdelay="2000" recduration="10000">
+				<recinstructions mimetype="text/plain">Παρακαλώ διαβάστε</recinstructions>
+				<recprompt>
+					<mediaitem annotationTemplate="true"
+						languageISO639code="el">Δευτέρα, 24 Απριλίου 2005</mediaitem>
+				</recprompt>
+				<reccomment>Greek date phrase</reccomment>
+			</recording>
+			<recording itemcode="demo_062" postrecdelay="500"
+				prerecdelay="2000" recduration="10000">
+				<recinstructions mimetype="text/plain">Παρακαλώ ολοκληρώστε</recinstructions>
+				<recprompt>
+					<mediaitem languageISO639code="el">Κύλησε ο τέντζερης και ....
+					</mediaitem>
+				</recprompt>
+				<reccomment>Greek pro-verb completion task.</reccomment>
+			</recording>
+			<recording itemcode="demo_063" postrecdelay="500"
+				prerecdelay="2000" recduration="10000">
+				<recinstructions mimetype="text/plain">Παρακαλώ απαντήστε στην
+					ερώτηση</recinstructions>
+				<recprompt>
+					<mediaitem languageISO639code="el">Τι κάνατε την τελευταία
+						ώρα;</mediaitem>
+				</recprompt>
+				<reccomment>Greek question: what did you do during the past hour?	</reccomment>
+			</recording>
+			<recording itemcode="demo_064" postrecdelay="500"
+				prerecdelay="2000" recduration="10000">
+				<recinstructions>Please read the list</recinstructions>
+				<recprompt>
+					<mediaitem mimetype="text/x-prompt"
+						languageISO639code="en">
+						<promptdoc>
+							<body>
+								<p>
+									<font weight="bold">
+										<text decoration="underline">Fruits:</text>
+									</font>
+								</p>
+								<p>
+									<text color="red">Strawberries</text>
+								</p>
+								<p>
+									<text color="green">Apples</text>
+									<br />
+									<font style="italic" weight="normal">
+										<text color="black">and</text>
+									</font>
+									<br />
+									<text color="yellow">Pears</text>
+								</p>
+							</body>
+						</promptdoc>
+					</mediaitem>
+				</recprompt>
+				<reccomment>Greek question: what did you do during the past hour?	</reccomment>
+			</recording>
+		</section>
+	</recordingscript>
+</script>

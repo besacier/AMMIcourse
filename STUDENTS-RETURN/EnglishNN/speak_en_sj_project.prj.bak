@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProjectConfiguration version="4.0.0">
+  <name>speak_en_sj</name>
+  <uuid>fa71b423-a4e1-4035-852b-6114395f12ff</uuid>
+  <RecordingConfiguration>
+    <url>RECS/</url>
+    <captureScope>SESSION</captureScope>
+  </RecordingConfiguration>
+  <PromptConfiguration>
+    <promptsUrl>speak_en_sj_script.xml</promptsUrl>
+    <InstructionsFont>
+      <family>SansSerif</family>
+    </InstructionsFont>
+    <PromptFont>
+      <family>SansSerif</family>
+    </PromptFont>
+    <DescriptionFont>
+      <family>SansSerif</family>
+    </DescriptionFont>
+    <automaticPromptPlay>false</automaticPromptPlay>
+    <ItemcodeGeneratorConfiguration>
+      <prefix>demo_</prefix>
+      <fixedDecimalPlaces>3</fixedDecimalPlaces>
+    </ItemcodeGeneratorConfiguration>
+  </PromptConfiguration>
+  <Speakers>
+    <speakersUrl>speak_en_sj_speakers.xml</speakersUrl>
+  </Speakers>
+</ProjectConfiguration>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<speakers>
+    <speakers>
+        <forename>seedy</forename>
+        <name>jobe</name>
+        <personId>1</personId>
+        <registered>2020-06-29T16:51:17.179Z</registered>
+        <sex>MALE</sex>
+        <uuid>5eb56444-4c6f-4e55-b21b-13ecbe338404</uuid>
+        <informedConsentInPaperFormSigned>false</informedConsentInPaperFormSigned>
+        <gender>MALE</gender>
+    </speakers>
+    <speakers>
+        <personId>2</personId>
+        <registered>2020-06-30T11:55:19.801Z</registered>
+        <uuid>2ae6d69d-e0a5-439c-9293-7d69510d18fa</uuid>
+        <informedConsentInPaperFormSigned>false</informedConsentInPaperFormSigned>
+    </speakers>
+</speakers>

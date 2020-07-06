@@ -1,0 +1,4911 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE script SYSTEM "SpeechRecPrompts_4.dtd">
+<script id="Example script">
+  <metadata>
+    <key>
+			DatabaseName
+		</key>
+    <value>
+			SpeechRecorder Demonstration
+		</value>
+    <key>
+			ScriptName
+		</key>
+    <value>
+			SpeechRecorder Sample Recording Script
+		</value>
+    <key>
+			ScriptAuthor
+		</key>
+    <value>
+			Chr. Draxler, Phonetics Institute, University of Munich
+		</value>
+    <key>
+			EmailAuthor
+		</key>
+    <value>
+			draxler@phonetik.uni-muenchen.de
+		</value>
+  </metadata>
+  <recordingscript>
+    <section>
+      <recording itemcode="demo_20042">
+        <recprompt>
+          <mediaitem>I have a throbbing pain .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20043">
+        <recprompt>
+          <mediaitem>It is August fifteenth .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20044">
+        <recprompt>
+          <mediaitem>Could you send this to Japan ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20045">
+        <recprompt>
+          <mediaitem>The rate is one hundred twenty dollars a night .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20046">
+        <recprompt>
+          <mediaitem>What newspapers do you have ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20047">
+        <recprompt>
+          <mediaitem>How do I use a safe deposit box ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20048">
+        <recprompt>
+          <mediaitem>Where is the boarding gate ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20049">
+        <recprompt>
+          <mediaitem>Are these all your personal effects ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20050">
+        <recprompt>
+          <mediaitem>This is instant miso soup .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20051">
+        <recprompt>
+          <mediaitem>We will land in three hours .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20052">
+        <recprompt>
+          <mediaitem>Where is the bus stop for city hall ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20053">
+        <recprompt>
+          <mediaitem>I feel much better now .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20054">
+        <recprompt>
+          <mediaitem>I hate green peppers .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20055">
+        <recprompt>
+          <mediaitem>Can you recommend an instructor ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20056">
+        <recprompt>
+          <mediaitem>How long does it take on foot ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20057">
+        <recprompt>
+          <mediaitem>I &amp;apos;m sorry , we have to turn down your offer .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20058">
+        <recprompt>
+          <mediaitem>When &amp;apos;s the check in time ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20059">
+        <recprompt>
+          <mediaitem>I &amp;apos;m sorry .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20060">
+        <recprompt>
+          <mediaitem>Can I open my safe-deposit box anytime ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20061">
+        <recprompt>
+          <mediaitem>I have a terrible headache .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20062">
+        <recprompt>
+          <mediaitem>Can I get there by bus ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20063">
+        <recprompt>
+          <mediaitem>Ten days .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20064">
+        <recprompt>
+          <mediaitem>Please recommend a good general practitioner .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20065">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll have today &amp;apos;s special .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20066">
+        <recprompt>
+          <mediaitem>Is this yours ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20067">
+        <recprompt>
+          <mediaitem>Are there any messages for me ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20068">
+        <recprompt>
+          <mediaitem>I recommend this wine .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20069">
+        <recprompt>
+          <mediaitem>May I try on this cotton sweater ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20070">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to get off at Thirteenth Street . Would you tell me when we get there ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20071">
+        <recprompt>
+          <mediaitem>How much is the fare ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20072">
+        <recprompt>
+          <mediaitem>Oh , my goodness .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20073">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll take you there .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20074">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like a twin room with a bath please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20075">
+        <recprompt>
+          <mediaitem>Can you change yen into dollars ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20076">
+        <recprompt>
+          <mediaitem>A robber .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20077">
+        <recprompt>
+          <mediaitem>A Mr. Sato is calling .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20078">
+        <recprompt>
+          <mediaitem>Three glasses of melon juice , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20079">
+        <recprompt>
+          <mediaitem>Roast chicken , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20080">
+        <recprompt>
+          <mediaitem>Are there any Japanese-speaking flight attendants ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20081">
+        <recprompt>
+          <mediaitem>Yes , sir . Hold on , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20082">
+        <recprompt>
+          <mediaitem>Can I park here for a while ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20083">
+        <recprompt>
+          <mediaitem>Thanks for waiting . Here &amp;apos;s your room key . You are on the third floor , room three fourteen .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20084">
+        <recprompt>
+          <mediaitem>He bought some clothes and gave them to me as a present .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20085">
+        <recprompt>
+          <mediaitem>Where is the most famous department store ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20086">
+        <recprompt>
+          <mediaitem>Just an open pack of cigarettes .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20087">
+        <recprompt>
+          <mediaitem>What is that woman over there eating ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20088">
+        <recprompt>
+          <mediaitem>Take two tablets after every meal .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20089">
+        <recprompt>
+          <mediaitem>Where &amp;apos;s the ticket office ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20090">
+        <recprompt>
+          <mediaitem>I &amp;apos;m with my girlfriend .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20091">
+        <recprompt>
+          <mediaitem>How much do I take at once ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20092">
+        <recprompt>
+          <mediaitem>I will go and get it .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20093">
+        <recprompt>
+          <mediaitem>Your name and your room number , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20094">
+        <recprompt>
+          <mediaitem>I have no time .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20095">
+        <recprompt>
+          <mediaitem>I want to make a reservation on JAL flight zero zero five to Tokyo on the twelfth .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20096">
+        <recprompt>
+          <mediaitem>Do you have a Japanese guidebook ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20097">
+        <recprompt>
+          <mediaitem>Could you send these to Japan ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20098">
+        <recprompt>
+          <mediaitem>I said I don &amp;apos;t need it .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20099">
+        <recprompt>
+          <mediaitem>By LT , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20100">
+        <recprompt>
+          <mediaitem>The bellboy will show you your room . Where is your baggage ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20101">
+        <recprompt>
+          <mediaitem>Our state has the lowest tax .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20102">
+        <recprompt>
+          <mediaitem>Please join us .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20103">
+        <recprompt>
+          <mediaitem>Check , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20104">
+        <recprompt>
+          <mediaitem>Yes , well , that &amp;apos;s our specialty .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20105">
+        <recprompt>
+          <mediaitem>What &amp;apos;s this charge for ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20106">
+        <recprompt>
+          <mediaitem>My air conditioner isn &amp;apos;t working .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20107">
+        <recprompt>
+          <mediaitem>I &amp;apos;m on my way to Chicago from Minneapolis .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20108">
+        <recprompt>
+          <mediaitem>Will you punch me in ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20109">
+        <recprompt>
+          <mediaitem>Which way is immigration ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20110">
+        <recprompt>
+          <mediaitem>This is very beautiful .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20111">
+        <recprompt>
+          <mediaitem>It would be difficult to say , but probably Rome . By all means , Rome .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20112">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to buy some duty-free items . Please show me some watches .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20113">
+        <recprompt>
+          <mediaitem>I &amp;apos;m boring .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20114">
+        <recprompt>
+          <mediaitem>How much is it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20115">
+        <recprompt>
+          <mediaitem>No , we don &amp;apos;t carry much cash in this country . We use traveler &amp;apos;s checks .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20116">
+        <recprompt>
+          <mediaitem>Where is the police station ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20117">
+        <recprompt>
+          <mediaitem>One moment , please . Yes , Ms. Minami , a single room for four nights .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20118">
+        <recprompt>
+          <mediaitem>Well , it &amp;apos;s not so serious .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20119">
+        <recprompt>
+          <mediaitem>Where is the ladies &amp;apos; room ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20120">
+        <recprompt>
+          <mediaitem>Take this baggage to the bus terminal , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20121">
+        <recprompt>
+          <mediaitem>Will I need to have immunization shots to enter your country ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20122">
+        <recprompt>
+          <mediaitem>The Simpson &amp;apos;s .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20123">
+        <recprompt>
+          <mediaitem>Where is the ATM ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20124">
+        <recprompt>
+          <mediaitem>You should take a taxi .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20125">
+        <recprompt>
+          <mediaitem>Is there someplace around here to buy something to drink ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20126">
+        <recprompt>
+          <mediaitem>How much is it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20127">
+        <recprompt>
+          <mediaitem>Would it be possible to check in earlier ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20128">
+        <recprompt>
+          <mediaitem>A glass of white wine , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20129">
+        <recprompt>
+          <mediaitem>It &amp;apos;s fifty cents .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20130">
+        <recprompt>
+          <mediaitem>Tell me how to use this , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20131">
+        <recprompt>
+          <mediaitem>Is this seat taken ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20132">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll bring it up now , madam .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20133">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like some coffee .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20134">
+        <recprompt>
+          <mediaitem>Hello . Is this Miss Ono ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20135">
+        <recprompt>
+          <mediaitem>Work hard , and you will be promoted .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20136">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to see that camera on the shelf .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20137">
+        <recprompt>
+          <mediaitem>Will you show me that watch ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20138">
+        <recprompt>
+          <mediaitem>That &amp;apos;s so true .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20139">
+        <recprompt>
+          <mediaitem>I would like to exchange yen to dollars , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20140">
+        <recprompt>
+          <mediaitem>Please don &amp;apos;t x-ray this .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20141">
+        <recprompt>
+          <mediaitem>The tire is flat .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20142">
+        <recprompt>
+          <mediaitem>Do you have a store in Japan where I can get this repaired ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20143">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to have these pictures enlarged .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20144">
+        <recprompt>
+          <mediaitem>I would like to put my valuables in the safe deposit box .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20145">
+        <recprompt>
+          <mediaitem>Sorry , but we &amp;apos;re closed tomorrow .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20146">
+        <recprompt>
+          <mediaitem>My blood type is B.</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20147">
+        <recprompt>
+          <mediaitem>I want something with shorter sleeves .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20148">
+        <recprompt>
+          <mediaitem>Do you have any convertibles ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20149">
+        <recprompt>
+          <mediaitem>A menu , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20150">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to change my flight from July eighth to July ninth .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20151">
+        <recprompt>
+          <mediaitem>We &amp;apos;d like a table in a quiet corner .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20152">
+        <recprompt>
+          <mediaitem>Take care .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20153">
+        <recprompt>
+          <mediaitem>Does he speak Japanese ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20154">
+        <recprompt>
+          <mediaitem>More bags , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20155">
+        <recprompt>
+          <mediaitem>Where &amp;apos;s the United Airlines counter ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20156">
+        <recprompt>
+          <mediaitem>Nice to meet you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20157">
+        <recprompt>
+          <mediaitem>I have two older sisters and one younger brother .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20158">
+        <recprompt>
+          <mediaitem>No-smoking , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20159">
+        <recprompt>
+          <mediaitem>I can &amp;apos;t stand any more of this .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20160">
+        <recprompt>
+          <mediaitem>It &amp;apos;s just around the corner .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20161">
+        <recprompt>
+          <mediaitem>Let me by , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20162">
+        <recprompt>
+          <mediaitem>We &amp;apos;ll wait in the bar . Will you call us please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20163">
+        <recprompt>
+          <mediaitem>But it &amp;apos;s dirty .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20164">
+        <recprompt>
+          <mediaitem>No , it &amp;apos;s made from bread .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20165">
+        <recprompt>
+          <mediaitem>I think it &amp;apos;s too far to walk from here .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20166">
+        <recprompt>
+          <mediaitem>How many are there in your party ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20167">
+        <recprompt>
+          <mediaitem>I want to reconfirm this ticket .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20168">
+        <recprompt>
+          <mediaitem>Please wait here for a few minutes .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20169">
+        <recprompt>
+          <mediaitem>I wonder why CDs are so much cheaper there .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20170">
+        <recprompt>
+          <mediaitem>I would like the most popular Vietnamese dish , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20171">
+        <recprompt>
+          <mediaitem>More coffee , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20172">
+        <recprompt>
+          <mediaitem>My eyes are bloodshot .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20173">
+        <recprompt>
+          <mediaitem>My friend had a traffic accident .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20174">
+        <recprompt>
+          <mediaitem>May I put my seat back ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20175">
+        <recprompt>
+          <mediaitem>Thanks .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20176">
+        <recprompt>
+          <mediaitem>Two hot dogs to go , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20177">
+        <recprompt>
+          <mediaitem>One round-trip ticket to Vichy , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20178">
+        <recprompt>
+          <mediaitem>Get help , quick .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20179">
+        <recprompt>
+          <mediaitem>I have no appetite .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20180">
+        <recprompt>
+          <mediaitem>Just as at the Vernal Equinox , we hold a mass for our ancestors .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20181">
+        <recprompt>
+          <mediaitem>Do you have any flights to Tokyo in the early morning ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20182">
+        <recprompt>
+          <mediaitem>Thank you for calling , sir .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20183">
+        <recprompt>
+          <mediaitem>This is not my coat .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20184">
+        <recprompt>
+          <mediaitem>Can you give me a discount ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20185">
+        <recprompt>
+          <mediaitem>No , I &amp;apos;d also like to get a dress cleaned . And I want to get a stain out of another dress .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20186">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll get a new one when I return to Japan .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20187">
+        <recprompt>
+          <mediaitem>Are Japanese dogs big ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20188">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to sit next to my friend .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20189">
+        <recprompt>
+          <mediaitem>To go to an opera festival .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20190">
+        <recprompt>
+          <mediaitem>Is there a mirror ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20191">
+        <recprompt>
+          <mediaitem>What &amp;apos;s the phone number ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20192">
+        <recprompt>
+          <mediaitem>They are all well , thanks .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20193">
+        <recprompt>
+          <mediaitem>No way .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20194">
+        <recprompt>
+          <mediaitem>Great .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20195">
+        <recprompt>
+          <mediaitem>I want to get off at the Saks Fifth Avenue bus stop . Would you tell me when we get there ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20196">
+        <recprompt>
+          <mediaitem>I want to cash a traveler &amp;apos;s check .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20197">
+        <recprompt>
+          <mediaitem>What day is it today ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20198">
+        <recprompt>
+          <mediaitem>Half , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20199">
+        <recprompt>
+          <mediaitem>Okay , but what &amp;apos;s &amp;quot; Stealing Home &amp;quot; ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20200">
+        <recprompt>
+          <mediaitem>Russian dressing .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20201">
+        <recprompt>
+          <mediaitem>You should transfer to the Chuo Line .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20202">
+        <recprompt>
+          <mediaitem>I lost my traveler &amp;apos;s checks .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20203">
+        <recprompt>
+          <mediaitem>When is the next delivery ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20204">
+        <recprompt>
+          <mediaitem>Here you are .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20205">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to call Tokyo , Japan . What time is it now in Tokyo ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20206">
+        <recprompt>
+          <mediaitem>You listen to me .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20207">
+        <recprompt>
+          <mediaitem>Where &amp;apos;s the toiletry department ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20208">
+        <recprompt>
+          <mediaitem>Excuse me . Could you tell me how to get to the Getty Museum ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20209">
+        <recprompt>
+          <mediaitem>I work in the marketing department at Wow Chemicals .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20210">
+        <recprompt>
+          <mediaitem>Yes .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20211">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll try some pie .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20212">
+        <recprompt>
+          <mediaitem>Can I use this cart for free ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20213">
+        <recprompt>
+          <mediaitem>Could you look for it , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20214">
+        <recprompt>
+          <mediaitem>That man is stubborn .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20215">
+        <recprompt>
+          <mediaitem>Where ? Where are you ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20216">
+        <recprompt>
+          <mediaitem>Do you have a fax machine ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20217">
+        <recprompt>
+          <mediaitem>Congratulations on your promotion .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20218">
+        <recprompt>
+          <mediaitem>No . I am not .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20219">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to look around first . Thank you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20220">
+        <recprompt>
+          <mediaitem>Tell me where the closest station is , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20221">
+        <recprompt>
+          <mediaitem>Like what , for example ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20222">
+        <recprompt>
+          <mediaitem>Did you see who did it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20223">
+        <recprompt>
+          <mediaitem>The same for me .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20224">
+        <recprompt>
+          <mediaitem>Ninety-nine dollars in one-dollar bills .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20225">
+        <recprompt>
+          <mediaitem>Where is the nearest subway station ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20226">
+        <recprompt>
+          <mediaitem>How many stops are there between here and the Museum of Modern Art ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20227">
+        <recprompt>
+          <mediaitem>Please take me to the Vacation Hotel .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20228">
+        <recprompt>
+          <mediaitem>Where is the Japanese Embassy ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20229">
+        <recprompt>
+          <mediaitem>When &amp;apos;s the next bus to Baltimore ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20230">
+        <recprompt>
+          <mediaitem>Do you have a magazine or something ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20231">
+        <recprompt>
+          <mediaitem>Menu , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20232">
+        <recprompt>
+          <mediaitem>Where &amp;apos;s the nearest dentist ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20233">
+        <recprompt>
+          <mediaitem>Good-bye .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20234">
+        <recprompt>
+          <mediaitem>Do you have anything that &amp;apos;s quick ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20235">
+        <recprompt>
+          <mediaitem>Do you have this in black ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20236">
+        <recprompt>
+          <mediaitem>I left something in the room .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20237">
+        <recprompt>
+          <mediaitem>Have you ever seen a Japanese movie ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20238">
+        <recprompt>
+          <mediaitem>Which would you like , coffee or tea ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20239">
+        <recprompt>
+          <mediaitem>Where can I buy accessories ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20240">
+        <recprompt>
+          <mediaitem>Where is the ticket office ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20241">
+        <recprompt>
+          <mediaitem>So , where is the dining room ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20242">
+        <recprompt>
+          <mediaitem>Oh , the rates range from about ninety dollars to a hundred and fifty , plus tax .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20243">
+        <recprompt>
+          <mediaitem>Please call the police .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20244">
+        <recprompt>
+          <mediaitem>Can I continue my trip ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20245">
+        <recprompt>
+          <mediaitem>My name is Taro Yamada .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20246">
+        <recprompt>
+          <mediaitem>Then I &amp;apos;d like ten ninety cent stamps and two ninety five cent stamps .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20247">
+        <recprompt>
+          <mediaitem>Where is the stationery section ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20248">
+        <recprompt>
+          <mediaitem>Kids are walking around in costumes .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20249">
+        <recprompt>
+          <mediaitem>When should I bring it , sir ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20250">
+        <recprompt>
+          <mediaitem>Please convert dollars into pounds .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20251">
+        <recprompt>
+          <mediaitem>Let me check your vaccination certificate .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20252">
+        <recprompt>
+          <mediaitem>Thank you very much .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20253">
+        <recprompt>
+          <mediaitem>You get it , right ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20254">
+        <recprompt>
+          <mediaitem>Please show me a lighter one .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20255">
+        <recprompt>
+          <mediaitem>Shall we order it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20256">
+        <recprompt>
+          <mediaitem>Are you sure the flight time is twelve hours ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20257">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like my hair dyed .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20258">
+        <recprompt>
+          <mediaitem>Could I see Mr. Adams ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20259">
+        <recprompt>
+          <mediaitem>She &amp;apos;s not a diplomat , is she ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20260">
+        <recprompt>
+          <mediaitem>Point me to a good coffeehouse .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20261">
+        <recprompt>
+          <mediaitem>Do you sell duty-free items ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20262">
+        <recprompt>
+          <mediaitem>I have heartburn .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20263">
+        <recprompt>
+          <mediaitem>This is all my personal luggage .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20264">
+        <recprompt>
+          <mediaitem>Yes .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20265">
+        <recprompt>
+          <mediaitem>Our last order is at ten .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20266">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll put you through .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20267">
+        <recprompt>
+          <mediaitem>Please fix it or exchange it .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20268">
+        <recprompt>
+          <mediaitem>Today &amp;apos;s program is folk songs .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20269">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to reserve a seat by the window .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20270">
+        <recprompt>
+          <mediaitem>Please change this into dollars .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20271">
+        <recprompt>
+          <mediaitem>Would you like insurance ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20272">
+        <recprompt>
+          <mediaitem>He &amp;apos;s not in right now .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20273">
+        <recprompt>
+          <mediaitem>There &amp;apos;s a problem with my right eye .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20274">
+        <recprompt>
+          <mediaitem>Is there a hotel around here ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20275">
+        <recprompt>
+          <mediaitem>What number are you calling ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20276">
+        <recprompt>
+          <mediaitem>What time is check-out ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20277">
+        <recprompt>
+          <mediaitem>Sign here , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20278">
+        <recprompt>
+          <mediaitem>I would like a seat next to my daughter , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20279">
+        <recprompt>
+          <mediaitem>It was fantastic . Thanks .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20280">
+        <recprompt>
+          <mediaitem>Stop here , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20281">
+        <recprompt>
+          <mediaitem>I &amp;apos;m going home on the seventeenth . Please send it to Japan after that .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20282">
+        <recprompt>
+          <mediaitem>What time does that ferry leave ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20283">
+        <recprompt>
+          <mediaitem>I want to play golf .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20284">
+        <recprompt>
+          <mediaitem>That movie was interesting , wasn &amp;apos;t it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20285">
+        <recprompt>
+          <mediaitem>I don &amp;apos;t think this restaurant is expensive .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20286">
+        <recprompt>
+          <mediaitem>Here it is .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20287">
+        <recprompt>
+          <mediaitem>I don &amp;apos;t remember what happened .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20288">
+        <recprompt>
+          <mediaitem>No , nothing that I know of .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20289">
+        <recprompt>
+          <mediaitem>How long is the tour ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20290">
+        <recprompt>
+          <mediaitem>May I see the menu ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20291">
+        <recprompt>
+          <mediaitem>Please . Show me shoes , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20292">
+        <recprompt>
+          <mediaitem>Here &amp;apos;s a plate . Help yourself .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20293">
+        <recprompt>
+          <mediaitem>May I have the check , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20294">
+        <recprompt>
+          <mediaitem>The sleeves are too narrow .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20295">
+        <recprompt>
+          <mediaitem>Where is the crafts shop ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20296">
+        <recprompt>
+          <mediaitem>The night is still young .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20297">
+        <recprompt>
+          <mediaitem>To the department store .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20298">
+        <recprompt>
+          <mediaitem>Hello . Reception desk ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20299">
+        <recprompt>
+          <mediaitem>What time does it begin ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20300">
+        <recprompt>
+          <mediaitem>I want to call my home .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20301">
+        <recprompt>
+          <mediaitem>Uhh . Give me a Tab .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20302">
+        <recprompt>
+          <mediaitem>Where can I get a map of the subway lines ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20303">
+        <recprompt>
+          <mediaitem>How do I fill in this declaration form ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20304">
+        <recprompt>
+          <mediaitem>Can I have a medical certificate ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20305">
+        <recprompt>
+          <mediaitem>Please bring my breakfast to my room .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20306">
+        <recprompt>
+          <mediaitem>Are you ready to order ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20307">
+        <recprompt>
+          <mediaitem>Beer , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20308">
+        <recprompt>
+          <mediaitem>Just a moment . I &amp;apos;ll put you through .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20309">
+        <recprompt>
+          <mediaitem>How many days will it take before it gets to Japan ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20310">
+        <recprompt>
+          <mediaitem>Here you are . How was everything today ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20311">
+        <recprompt>
+          <mediaitem>Would you like French fries ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20312">
+        <recprompt>
+          <mediaitem>I don &amp;apos;t feel anything . Are you sure it &amp;apos;s on ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20313">
+        <recprompt>
+          <mediaitem>Do you have anything cheaper ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20314">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to make a reservation for a hotel , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20315">
+        <recprompt>
+          <mediaitem>Four thirty . Please don &amp;apos;t be late .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20316">
+        <recprompt>
+          <mediaitem>They pinch my toes .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20317">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like a comb .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20318">
+        <recprompt>
+          <mediaitem>Yes . Let me see that blouse over there .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20319">
+        <recprompt>
+          <mediaitem>I asked for five .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20320">
+        <recprompt>
+          <mediaitem>Do I pay on the bus ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20321">
+        <recprompt>
+          <mediaitem>Is it machine washable ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20322">
+        <recprompt>
+          <mediaitem>I &amp;apos;m worried about my crow &amp;apos;s-feet .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20323">
+        <recprompt>
+          <mediaitem>Yes , of course .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20324">
+        <recprompt>
+          <mediaitem>May I sit there ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20325">
+        <recprompt>
+          <mediaitem>That &amp;apos;s all .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20326">
+        <recprompt>
+          <mediaitem>I usually get up at seven .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20327">
+        <recprompt>
+          <mediaitem>Do you know of a good restaurant near here ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20328">
+        <recprompt>
+          <mediaitem>I prefer to sit in the back of the plane .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20329">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to return a car .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20330">
+        <recprompt>
+          <mediaitem>Here is my claim tag .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20331">
+        <recprompt>
+          <mediaitem>When are there seats available ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20332">
+        <recprompt>
+          <mediaitem>Do I need a reservation ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20333">
+        <recprompt>
+          <mediaitem>I can &amp;apos;t do that . It &amp;apos;s already discounted .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20334">
+        <recprompt>
+          <mediaitem>It &amp;apos;s very kind of you to invite me , but I &amp;apos;m very sorry I have a previous engagement on that evening . Please ask me again some other time .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20335">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like a present for my mother .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20336">
+        <recprompt>
+          <mediaitem>How would you like the money ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20337">
+        <recprompt>
+          <mediaitem>Would you take a picture of me ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20338">
+        <recprompt>
+          <mediaitem>What is that ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20339">
+        <recprompt>
+          <mediaitem>I think there is a mistake in the bill .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20340">
+        <recprompt>
+          <mediaitem>Do you have anything a little bit smaller ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20341">
+        <recprompt>
+          <mediaitem>Can I have a fifty franc telephone card ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20342">
+        <recprompt>
+          <mediaitem>Do you have a morning tour ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20343">
+        <recprompt>
+          <mediaitem>The Center Hotel .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20344">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to return the car at San Francisco Airport .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20345">
+        <recprompt>
+          <mediaitem>Where can I buy the ticket ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20346">
+        <recprompt>
+          <mediaitem>Excuse me . A napkin , quickly please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20347">
+        <recprompt>
+          <mediaitem>Can I buy it duty-free ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20348">
+        <recprompt>
+          <mediaitem>How do I turn the top light on ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20349">
+        <recprompt>
+          <mediaitem>I wanna make a collect call to Eddie Mascone from Jack Walsh .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20350">
+        <recprompt>
+          <mediaitem>What &amp;apos;s the phone number ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20351">
+        <recprompt>
+          <mediaitem>Anything is fine .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20352">
+        <recprompt>
+          <mediaitem>You &amp;apos;ve really got to do something about it .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20353">
+        <recprompt>
+          <mediaitem>Do you accept this credit card ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20354">
+        <recprompt>
+          <mediaitem>This chicken is undercooked .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20355">
+        <recprompt>
+          <mediaitem>How much is the fare to the Savoy Hotel ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20356">
+        <recprompt>
+          <mediaitem>Is there a lounge car on that train ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20357">
+        <recprompt>
+          <mediaitem>What time do you close ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20358">
+        <recprompt>
+          <mediaitem>Let me take you there .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20359">
+        <recprompt>
+          <mediaitem>Are you off tomorrow ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20360">
+        <recprompt>
+          <mediaitem>Where can I buy postcards ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20361">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll take that room .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20362">
+        <recprompt>
+          <mediaitem>Simply speaking , it &amp;apos;s a sirloin steak with sauce .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20363">
+        <recprompt>
+          <mediaitem>What is the reason for the return ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20364">
+        <recprompt>
+          <mediaitem>The officer over there can help you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20365">
+        <recprompt>
+          <mediaitem>No , not unless you have an account with us .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20366">
+        <recprompt>
+          <mediaitem>Where &amp;apos;s the bus stop ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20367">
+        <recprompt>
+          <mediaitem>Where can I get some stamps ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20368">
+        <recprompt>
+          <mediaitem>Excuse me ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20369">
+        <recprompt>
+          <mediaitem>How much is the difference between first class and second class ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20370">
+        <recprompt>
+          <mediaitem>Are there any other persons who will drive ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20371">
+        <recprompt>
+          <mediaitem>Is the fare to the airport fixed or metered ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20372">
+        <recprompt>
+          <mediaitem>How much for one night ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20373">
+        <recprompt>
+          <mediaitem>I &amp;apos;ve got a stomachache .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20374">
+        <recprompt>
+          <mediaitem>Is there a beauty salon in that hotel ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20375">
+        <recprompt>
+          <mediaitem>Wow . He &amp;apos;s very handsome .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20376">
+        <recprompt>
+          <mediaitem>Thanks for inviting me to the party .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20377">
+        <recprompt>
+          <mediaitem>It &amp;apos;s all personal goods .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20378">
+        <recprompt>
+          <mediaitem>How long will it take ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20379">
+        <recprompt>
+          <mediaitem>Fill it up , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20380">
+        <recprompt>
+          <mediaitem>What kind of business are you in ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20381">
+        <recprompt>
+          <mediaitem>May I help you ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20382">
+        <recprompt>
+          <mediaitem>Yes , there is .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20383">
+        <recprompt>
+          <mediaitem>I feel sick .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20384">
+        <recprompt>
+          <mediaitem>Is there a snack bar on the train ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20385">
+        <recprompt>
+          <mediaitem>We &amp;apos;ll arrive at the Honolulu International Airport in thirty minutes .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20386">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll be checking out , so please prepare my bill .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20387">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like a travel guide .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20388">
+        <recprompt>
+          <mediaitem>Fine . Wait here . I &amp;apos;ll get the car and pull up by the door .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20389">
+        <recprompt>
+          <mediaitem>Do you have a hotel doctor ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20390">
+        <recprompt>
+          <mediaitem>Which line for Houston ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20391">
+        <recprompt>
+          <mediaitem>I didn &amp;apos;t drink this .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20392">
+        <recprompt>
+          <mediaitem>It must be my lucky day .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20393">
+        <recprompt>
+          <mediaitem>What is today &amp;apos;s date ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20394">
+        <recprompt>
+          <mediaitem>No , not at all .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20395">
+        <recprompt>
+          <mediaitem>Are these good seats ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20396">
+        <recprompt>
+          <mediaitem>Please sign here .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20397">
+        <recprompt>
+          <mediaitem>I &amp;apos;m going to the Savoy Hotel .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20398">
+        <recprompt>
+          <mediaitem>Are there any night tours ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20399">
+        <recprompt>
+          <mediaitem>Where can I find a big department store ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20400">
+        <recprompt>
+          <mediaitem>Please call a taxi .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20401">
+        <recprompt>
+          <mediaitem>I was hit by a car .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20402">
+        <recprompt>
+          <mediaitem>Where is the swimsuit department ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20403">
+        <recprompt>
+          <mediaitem>How much is the green fee ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20404">
+        <recprompt>
+          <mediaitem>With cream and sugar , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20405">
+        <recprompt>
+          <mediaitem>Yes . Here it is .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20406">
+        <recprompt>
+          <mediaitem>Smith and Grand Law Offices . May I help you ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20407">
+        <recprompt>
+          <mediaitem>It &amp;apos;s east .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20408">
+        <recprompt>
+          <mediaitem>It &amp;apos;s too cold .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20409">
+        <recprompt>
+          <mediaitem>I don &amp;apos;t know my size .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20410">
+        <recprompt>
+          <mediaitem>Where is the telephone ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20411">
+        <recprompt>
+          <mediaitem>I &amp;apos;ve had enough .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20412">
+        <recprompt>
+          <mediaitem>Can I have my hair cut , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20413">
+        <recprompt>
+          <mediaitem>Is it made in Australia ? I don &amp;apos;t want Japanese kangaroos .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20414">
+        <recprompt>
+          <mediaitem>I can &amp;apos;t move by myself .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20415">
+        <recprompt>
+          <mediaitem>I wonder if this is your stapler .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20416">
+        <recprompt>
+          <mediaitem>That &amp;apos;s for room service .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20417">
+        <recprompt>
+          <mediaitem>I don &amp;apos;t like you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20418">
+        <recprompt>
+          <mediaitem>How long does it take to have them reissued ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20419">
+        <recprompt>
+          <mediaitem>How much is it per day ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20420">
+        <recprompt>
+          <mediaitem>I really don &amp;apos;t care for this anyway .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20421">
+        <recprompt>
+          <mediaitem>What a letdown .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20422">
+        <recprompt>
+          <mediaitem>Can I get a discount ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20423">
+        <recprompt>
+          <mediaitem>Yes , sir .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20424">
+        <recprompt>
+          <mediaitem>I don &amp;apos;t have an appetite .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20425">
+        <recprompt>
+          <mediaitem>May I drop the car off at my destination ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20426">
+        <recprompt>
+          <mediaitem>Can I see the car before I rent it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20427">
+        <recprompt>
+          <mediaitem>Which would you like , tea or coffee ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20428">
+        <recprompt>
+          <mediaitem>I just don &amp;apos;t know how to thank you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20429">
+        <recprompt>
+          <mediaitem>I have a severe pain in my stomach .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20430">
+        <recprompt>
+          <mediaitem>Is this okay ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20431">
+        <recprompt>
+          <mediaitem>Fourteen days .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20432">
+        <recprompt>
+          <mediaitem>You see those machines ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20433">
+        <recprompt>
+          <mediaitem>What are the duty free procedures ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20434">
+        <recprompt>
+          <mediaitem>I want to check out one day early .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20435">
+        <recprompt>
+          <mediaitem>Can I get there by tonight ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20436">
+        <recprompt>
+          <mediaitem>Where &amp;apos;s the dining room ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20437">
+        <recprompt>
+          <mediaitem>Where are you from ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20438">
+        <recprompt>
+          <mediaitem>What time would best suit you ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20439">
+        <recprompt>
+          <mediaitem>What &amp;apos;s the purpose of your visit ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20440">
+        <recprompt>
+          <mediaitem>What &amp;apos;s this ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20441">
+        <recprompt>
+          <mediaitem>How much extra is it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20442">
+        <recprompt>
+          <mediaitem>It leaves at eleven thirty .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20443">
+        <recprompt>
+          <mediaitem>We &amp;apos;d like this and this , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20444">
+        <recprompt>
+          <mediaitem>I have never played tennis .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20445">
+        <recprompt>
+          <mediaitem>The tour bus left me .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20446">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to return it . Could I have a refund , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20447">
+        <recprompt>
+          <mediaitem>Ah , here you are .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20448">
+        <recprompt>
+          <mediaitem>Please send a bellboy for my baggage .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20449">
+        <recprompt>
+          <mediaitem>Room service , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20450">
+        <recprompt>
+          <mediaitem>Please take care of yourself .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20451">
+        <recprompt>
+          <mediaitem>Would you give me a wake-up call at eight tomorrow morning ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20452">
+        <recprompt>
+          <mediaitem>Who is it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20453">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like a twin room .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20454">
+        <recprompt>
+          <mediaitem>Could you bring me more blankets ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20455">
+        <recprompt>
+          <mediaitem>We &amp;apos;d better hurry .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20456">
+        <recprompt>
+          <mediaitem>Where is the household goods department ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20457">
+        <recprompt>
+          <mediaitem>See you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20458">
+        <recprompt>
+          <mediaitem>All right .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20459">
+        <recprompt>
+          <mediaitem>Do you have a larger room ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20460">
+        <recprompt>
+          <mediaitem>Where do I get off for city hall ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20461">
+        <recprompt>
+          <mediaitem>Okay .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20462">
+        <recprompt>
+          <mediaitem>Where should I leave the cart ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20463">
+        <recprompt>
+          <mediaitem>Can I help you ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20464">
+        <recprompt>
+          <mediaitem>What are your hobbies ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20465">
+        <recprompt>
+          <mediaitem>Not good .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20466">
+        <recprompt>
+          <mediaitem>Would you carry my suitcase to my room , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20467">
+        <recprompt>
+          <mediaitem>Could we have a spoon , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20468">
+        <recprompt>
+          <mediaitem>Do you have some jasmine tea ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20469">
+        <recprompt>
+          <mediaitem>May I use a flash ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20470">
+        <recprompt>
+          <mediaitem>Please replace it .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20471">
+        <recprompt>
+          <mediaitem>Excuse me , waiter .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20472">
+        <recprompt>
+          <mediaitem>I &amp;apos;ve lost my passport .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20473">
+        <recprompt>
+          <mediaitem>I would like to buy some key chains .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20474">
+        <recprompt>
+          <mediaitem>Where is that in Japan ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20475">
+        <recprompt>
+          <mediaitem>Just a hair cut , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20476">
+        <recprompt>
+          <mediaitem>Yes , we can . May I have your name ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20477">
+        <recprompt>
+          <mediaitem>Mr. Robinson .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20478">
+        <recprompt>
+          <mediaitem>I &amp;apos;m really sorry .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20479">
+        <recprompt>
+          <mediaitem>May I help you ? Are you looking for anything special ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20480">
+        <recprompt>
+          <mediaitem>What was that announcement they just made ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20481">
+        <recprompt>
+          <mediaitem>So , I have to stay here tonight don &amp;apos;t I ? Can you reserve a hotel room for me ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20482">
+        <recprompt>
+          <mediaitem>Medium , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20483">
+        <recprompt>
+          <mediaitem>The food was very delicious .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20484">
+        <recprompt>
+          <mediaitem>Nice to meet you , too . I &amp;apos;m Sachiyo .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20485">
+        <recprompt>
+          <mediaitem>Where can I catch a taxi ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20486">
+        <recprompt>
+          <mediaitem>The view was breathtaking .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20487">
+        <recprompt>
+          <mediaitem>Does the tour bus have a restroom ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20488">
+        <recprompt>
+          <mediaitem>I have absolutely no recollection of saying something like that .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20489">
+        <recprompt>
+          <mediaitem>How long does it take from the hotel to downtown ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20490">
+        <recprompt>
+          <mediaitem>Do you accept this card ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20491">
+        <recprompt>
+          <mediaitem>Do I need to make an appointment to see a doctor ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20492">
+        <recprompt>
+          <mediaitem>What credit cards do you honor ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20493">
+        <recprompt>
+          <mediaitem>You see .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20494">
+        <recprompt>
+          <mediaitem>Could you get me a bigger size ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20495">
+        <recprompt>
+          <mediaitem>I &amp;apos;m sorry , we don &amp;apos;t accept credit cards .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20496">
+        <recprompt>
+          <mediaitem>I have severe hives .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20497">
+        <recprompt>
+          <mediaitem>Do I have to transfer to get there ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20498">
+        <recprompt>
+          <mediaitem>Where can I check in ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20499">
+        <recprompt>
+          <mediaitem>One Johnny Walker Black straight up .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20500">
+        <recprompt>
+          <mediaitem>How often do you travel ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20501">
+        <recprompt>
+          <mediaitem>How much does it cost to send this to Japan ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20502">
+        <recprompt>
+          <mediaitem>By air mail , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20503">
+        <recprompt>
+          <mediaitem>What did you just say ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20504">
+        <recprompt>
+          <mediaitem>That &amp;apos;s not too long .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20505">
+        <recprompt>
+          <mediaitem>May I recline my seat now ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20506">
+        <recprompt>
+          <mediaitem>Just a minute .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20507">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll see if twenty and twenty-one are available .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20508">
+        <recprompt>
+          <mediaitem>I have to get to Long Beach today .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20509">
+        <recprompt>
+          <mediaitem>I think his outfits are so practical .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20510">
+        <recprompt>
+          <mediaitem>Who are you going to meet ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20511">
+        <recprompt>
+          <mediaitem>This is your seat reservation ticket .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20512">
+        <recprompt>
+          <mediaitem>How do I get there ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20513">
+        <recprompt>
+          <mediaitem>Track three .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20514">
+        <recprompt>
+          <mediaitem>Oh no . Could you tell them to be quiet then ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20515">
+        <recprompt>
+          <mediaitem>My room number is five eleven .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20516">
+        <recprompt>
+          <mediaitem>What &amp;apos;s this horse &amp;apos;s name ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20517">
+        <recprompt>
+          <mediaitem>That will be four hundred dollars altogether . How would you like to pay ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20518">
+        <recprompt>
+          <mediaitem>Could we have a table by the window , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20519">
+        <recprompt>
+          <mediaitem>This is pure silk , so please handle it carefully .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20520">
+        <recprompt>
+          <mediaitem>Please say it again .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20521">
+        <recprompt>
+          <mediaitem>Do you have a table for six ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20522">
+        <recprompt>
+          <mediaitem>I have traveler &amp;apos;s insurance .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20523">
+        <recprompt>
+          <mediaitem>Police .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20524">
+        <recprompt>
+          <mediaitem>I &amp;apos;ve locked myself out .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20525">
+        <recprompt>
+          <mediaitem>Where can I find feminine napkins ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20526">
+        <recprompt>
+          <mediaitem>What time are we arriving in New York ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20527">
+        <recprompt>
+          <mediaitem>Can I get there on foot ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20528">
+        <recprompt>
+          <mediaitem>I want to be your friend .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20529">
+        <recprompt>
+          <mediaitem>How long will it keep ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20530">
+        <recprompt>
+          <mediaitem>Boarding for Delta Airlines flight six two three is delayed .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20531">
+        <recprompt>
+          <mediaitem>I &amp;apos;m crazy about modern jazz .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20532">
+        <recprompt>
+          <mediaitem>How much in all ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20533">
+        <recprompt>
+          <mediaitem>Take me to a hospital , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20534">
+        <recprompt>
+          <mediaitem>She &amp;apos;s cute .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20535">
+        <recprompt>
+          <mediaitem>Thank you very much for the great meal .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20536">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to get these clothes cleaned .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20537">
+        <recprompt>
+          <mediaitem>What &amp;apos;s the exchange rate for yen today ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20538">
+        <recprompt>
+          <mediaitem>Where is the post office ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20539">
+        <recprompt>
+          <mediaitem>If you can &amp;apos;t stop , it would be better to fall .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20540">
+        <recprompt>
+          <mediaitem>I like jazz .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20541">
+        <recprompt>
+          <mediaitem>Thank you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20542">
+        <recprompt>
+          <mediaitem>I would recommend a necklace .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20543">
+        <recprompt>
+          <mediaitem>I &amp;apos;m planning to go to Liverpool .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20544">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll have Breakfast B.</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20545">
+        <recprompt>
+          <mediaitem>Is there a flea market open today ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20546">
+        <recprompt>
+          <mediaitem>Do you know where I can find a Japanese speaking doctor ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20547">
+        <recprompt>
+          <mediaitem>Where can I rent a car ?</mediaitem>
+        </recprompt>
+      </recording>
+    </section>
+    <section>
+      <recording itemcode="demo_20548">
+        <recprompt>
+          <mediaitem>Help .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20549">
+        <recprompt>
+          <mediaitem>Could you clean my room ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20550">
+        <recprompt>
+          <mediaitem>This is the purchase agreement for my traveler &amp;apos;s checks .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20551">
+        <recprompt>
+          <mediaitem>Could you drive more slowly , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20552">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to speak to Mr. Smith .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20553">
+        <recprompt>
+          <mediaitem>Do you have a set menu ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20554">
+        <recprompt>
+          <mediaitem>What kind of leather is it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20555">
+        <recprompt>
+          <mediaitem>Yes , but I &amp;apos;m afraid I don &amp;apos;t speak English .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20556">
+        <recprompt>
+          <mediaitem>Thank you . How much is it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20557">
+        <recprompt>
+          <mediaitem>Japanese teenagers like video games .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20558">
+        <recprompt>
+          <mediaitem>How long will we have to wait ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20559">
+        <recprompt>
+          <mediaitem>Will we have any free time during the tour ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20560">
+        <recprompt>
+          <mediaitem>A two-door compact car , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20561">
+        <recprompt>
+          <mediaitem>Who is speaking , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20562">
+        <recprompt>
+          <mediaitem>It &amp;apos;s too bright .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20563">
+        <recprompt>
+          <mediaitem>Could you recommend a good nightclub ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20564">
+        <recprompt>
+          <mediaitem>Every ten minutes .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20565">
+        <recprompt>
+          <mediaitem>I feel nauseous .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20566">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to have some real Indian food .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20567">
+        <recprompt>
+          <mediaitem>Could you keep my bags here until five o &amp;apos;clock ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20568">
+        <recprompt>
+          <mediaitem>Okay , sir . Just a moment . May I have your signature here ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20569">
+        <recprompt>
+          <mediaitem>Do you have a compact car ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20570">
+        <recprompt>
+          <mediaitem>May I get through ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20571">
+        <recprompt>
+          <mediaitem>What is your relationship to the person you are staying with ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20572">
+        <recprompt>
+          <mediaitem>Please start the meter .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20573">
+        <recprompt>
+          <mediaitem>This one or that one ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20574">
+        <recprompt>
+          <mediaitem>It &amp;apos;s too small for me .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20575">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll have the same , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20576">
+        <recprompt>
+          <mediaitem>Two dollars , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20577">
+        <recprompt>
+          <mediaitem>About two minutes by train .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20578">
+        <recprompt>
+          <mediaitem>I would like to play golf .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20579">
+        <recprompt>
+          <mediaitem>I &amp;apos;m a vegetarian .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20580">
+        <recprompt>
+          <mediaitem>Shall I give you a hand ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20581">
+        <recprompt>
+          <mediaitem>We &amp;apos;d like a table by the window , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20582">
+        <recprompt>
+          <mediaitem>You will find it on your right .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20583">
+        <recprompt>
+          <mediaitem>The total population of Japan is about one hundred thirty million .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20584">
+        <recprompt>
+          <mediaitem>Could you make it sooner ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20585">
+        <recprompt>
+          <mediaitem>Can I pay with a credit card ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20586">
+        <recprompt>
+          <mediaitem>I feel nauseous .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20587">
+        <recprompt>
+          <mediaitem>Is the restroom empty ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20588">
+        <recprompt>
+          <mediaitem>Thank you for your service . This is for you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20589">
+        <recprompt>
+          <mediaitem>You got that one going in a good direction .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20590">
+        <recprompt>
+          <mediaitem>No , I &amp;apos;m a tourist .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20591">
+        <recprompt>
+          <mediaitem>Gee , a Japanese camera here is cheaper than it is in Japan .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20592">
+        <recprompt>
+          <mediaitem>Do I need a reservation ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20593">
+        <recprompt>
+          <mediaitem>We &amp;apos;d like a bottle of red wine .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20594">
+        <recprompt>
+          <mediaitem>Not really .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20595">
+        <recprompt>
+          <mediaitem>Where is the Lost and Found ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20596">
+        <recprompt>
+          <mediaitem>Excuse me , may I have a disembarkation card ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20597">
+        <recprompt>
+          <mediaitem>And what is the purpose of your visit ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20598">
+        <recprompt>
+          <mediaitem>Lie down over there and unbutton your shirt .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20599">
+        <recprompt>
+          <mediaitem>Those are mufflers .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20600">
+        <recprompt>
+          <mediaitem>Just fine , thank you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20601">
+        <recprompt>
+          <mediaitem>What is today &amp;apos;s soup ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20602">
+        <recprompt>
+          <mediaitem>You &amp;apos;re welcome .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20603">
+        <recprompt>
+          <mediaitem>Where is the monument ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20604">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll call back .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20605">
+        <recprompt>
+          <mediaitem>Open ticket or fixed ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20606">
+        <recprompt>
+          <mediaitem>Can I rent rackets and balls ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20607">
+        <recprompt>
+          <mediaitem>It &amp;apos;s for my friend . He is thirty years old .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20608">
+        <recprompt>
+          <mediaitem>How long are you going to stay ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20609">
+        <recprompt>
+          <mediaitem>I would like to go to the church .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20610">
+        <recprompt>
+          <mediaitem>QF twenty-one to Tokyo , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20611">
+        <recprompt>
+          <mediaitem>Do you have blue cheese dressing ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20612">
+        <recprompt>
+          <mediaitem>I &amp;apos;m on a diet .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20613">
+        <recprompt>
+          <mediaitem>It &amp;apos;s three , three four five six , one two three four nine</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20614">
+        <recprompt>
+          <mediaitem>The clerk in charge is absent . Will you hold on a minute ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20615">
+        <recprompt>
+          <mediaitem>Would you like to try oden ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20616">
+        <recprompt>
+          <mediaitem>I &amp;apos;m interested in American history .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20617">
+        <recprompt>
+          <mediaitem>What &amp;apos;s the purpose of your visit ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20618">
+        <recprompt>
+          <mediaitem>Do you have any fruit ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20619">
+        <recprompt>
+          <mediaitem>Here &amp;apos;s ten dollars . Keep the change .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20620">
+        <recprompt>
+          <mediaitem>Excuse me . Could you tell me when the first train to Boston is ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20621">
+        <recprompt>
+          <mediaitem>How much is a single ticket to New York ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20622">
+        <recprompt>
+          <mediaitem>On the rocks .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20623">
+        <recprompt>
+          <mediaitem>Thank you very much for everything .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20624">
+        <recprompt>
+          <mediaitem>He is outstanding .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20625">
+        <recprompt>
+          <mediaitem>Could I get you some coffee or tea ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20626">
+        <recprompt>
+          <mediaitem>The waist needs taking in by three centimeters .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20627">
+        <recprompt>
+          <mediaitem>I just put money in this vending machine , but nothing came out .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20628">
+        <recprompt>
+          <mediaitem>My name is Ueda . I have a reservation .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20629">
+        <recprompt>
+          <mediaitem>Is there a money exchange counter ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20630">
+        <recprompt>
+          <mediaitem>Would you sign your name , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20631">
+        <recprompt>
+          <mediaitem>Please open this bag .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20632">
+        <recprompt>
+          <mediaitem>I want to see Greenwich Village .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20633">
+        <recprompt>
+          <mediaitem>What &amp;apos;s the next stop ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20634">
+        <recprompt>
+          <mediaitem>What kind of baggage have you lost ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20635">
+        <recprompt>
+          <mediaitem>What &amp;apos;s wrong with him ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20636">
+        <recprompt>
+          <mediaitem>Japan is an island country . It consists of four main islands and many other small islands .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20637">
+        <recprompt>
+          <mediaitem>How much is the admission ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20638">
+        <recprompt>
+          <mediaitem>What &amp;apos;s the exchange rate ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20639">
+        <recprompt>
+          <mediaitem>Somebody call the police .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20640">
+        <recprompt>
+          <mediaitem>I have been looking forward to meeting you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20641">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like some bath salts .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20642">
+        <recprompt>
+          <mediaitem>It &amp;apos;s minus three degrees Centigrade .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20643">
+        <recprompt>
+          <mediaitem>You know a lot of people .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20644">
+        <recprompt>
+          <mediaitem>Coffee , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20645">
+        <recprompt>
+          <mediaitem>Can I have a dessert , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20646">
+        <recprompt>
+          <mediaitem>Could you fix this camera ? It doesn &amp;apos;t load correctly .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20647">
+        <recprompt>
+          <mediaitem>Pull over .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20648">
+        <recprompt>
+          <mediaitem>The sales growth rate has averaged twenty-five percent since the product &amp;apos;s release .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20649">
+        <recprompt>
+          <mediaitem>Which airport do I leave from ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20650">
+        <recprompt>
+          <mediaitem>Where is the Japanese Embassy ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20651">
+        <recprompt>
+          <mediaitem>Do you have a guidebook of events in this city ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20652">
+        <recprompt>
+          <mediaitem>How much is it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20653">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like a nonsmoking car .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20654">
+        <recprompt>
+          <mediaitem>Could you tell me the way to a bus stop ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20655">
+        <recprompt>
+          <mediaitem>May we wait for a table ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20656">
+        <recprompt>
+          <mediaitem>When can you get this skirt shortened by ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20657">
+        <recprompt>
+          <mediaitem>Here is your tip .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20658">
+        <recprompt>
+          <mediaitem>It &amp;apos;s a memento of my mother .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20659">
+        <recprompt>
+          <mediaitem>Please show me the transfer desk on the map .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20660">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll be there in about five minutes .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20661">
+        <recprompt>
+          <mediaitem>Can I pay with Japanese yen ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20662">
+        <recprompt>
+          <mediaitem>What is your budget ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20663">
+        <recprompt>
+          <mediaitem>How can I get to the museum ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20664">
+        <recprompt>
+          <mediaitem>Could you call me a taxi ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20665">
+        <recprompt>
+          <mediaitem>How about a cigarette ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20666">
+        <recprompt>
+          <mediaitem>Please call me in the morning .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20667">
+        <recprompt>
+          <mediaitem>Let me check .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20668">
+        <recprompt>
+          <mediaitem>What kind of night tours do you have ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20669">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like it at eight .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20670">
+        <recprompt>
+          <mediaitem>It was a tiring day .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20671">
+        <recprompt>
+          <mediaitem>Please help me out of the car .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20672">
+        <recprompt>
+          <mediaitem>Hello . My name is Kimio Mori .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20673">
+        <recprompt>
+          <mediaitem>Water , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20674">
+        <recprompt>
+          <mediaitem>Where is the drug store ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20675">
+        <recprompt>
+          <mediaitem>I enjoyed the movie . Thanks for inviting me .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20676">
+        <recprompt>
+          <mediaitem>Where can I buy a ticket ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20677">
+        <recprompt>
+          <mediaitem>Do you have any other ones ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20678">
+        <recprompt>
+          <mediaitem>This is a gift for my friend .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20679">
+        <recprompt>
+          <mediaitem>Would you have dinner with me tonight ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20680">
+        <recprompt>
+          <mediaitem>Please hurry .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20681">
+        <recprompt>
+          <mediaitem>Charge the battery , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20682">
+        <recprompt>
+          <mediaitem>Have you taken the TOEFL in Japan ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20683">
+        <recprompt>
+          <mediaitem>What kind of tours do you have ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20684">
+        <recprompt>
+          <mediaitem>I sprained my ankle .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20685">
+        <recprompt>
+          <mediaitem>I left my bag in a bus .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20686">
+        <recprompt>
+          <mediaitem>I really appreciate it .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20687">
+        <recprompt>
+          <mediaitem>Where to ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20688">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like some string beans and spinach .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20689">
+        <recprompt>
+          <mediaitem>Their clothes are not much different from those of Americans and Europeans .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20690">
+        <recprompt>
+          <mediaitem>Are there any tours with an English-speaking guide ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20691">
+        <recprompt>
+          <mediaitem>Two glasses of red , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20692">
+        <recprompt>
+          <mediaitem>Could you please check another flight for me ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20693">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to stay for just tonight .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20694">
+        <recprompt>
+          <mediaitem>May I help you ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20695">
+        <recprompt>
+          <mediaitem>Could you pose with me ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20696">
+        <recprompt>
+          <mediaitem>I have an upset stomach .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20697">
+        <recprompt>
+          <mediaitem>Do you know where I can take lessons ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20698">
+        <recprompt>
+          <mediaitem>I &amp;apos;m going to JFK .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20699">
+        <recprompt>
+          <mediaitem>Mount Fuji is three thousand , seven hundred seventy-six meters high .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20700">
+        <recprompt>
+          <mediaitem>How much is the excess baggage charge , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20701">
+        <recprompt>
+          <mediaitem>How much is a first-class , round-trip ticket to Atlanta ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20702">
+        <recprompt>
+          <mediaitem>The ski resort is pretty far away .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20703">
+        <recprompt>
+          <mediaitem>Do you have any excursion tickets ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20704">
+        <recprompt>
+          <mediaitem>I bought the wrong brand .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20705">
+        <recprompt>
+          <mediaitem>Where does the airport bus to the city leave ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20706">
+        <recprompt>
+          <mediaitem>Could you please tell me how to get to the station ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20707">
+        <recprompt>
+          <mediaitem>That is right .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20708">
+        <recprompt>
+          <mediaitem>Fill out this form , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20709">
+        <recprompt>
+          <mediaitem>No , but I feel like vomiting . I think I ate too much last night .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20710">
+        <recprompt>
+          <mediaitem>Do you think we &amp;apos;ll arrive on schedule ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20711">
+        <recprompt>
+          <mediaitem>Is this seat occupied ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20712">
+        <recprompt>
+          <mediaitem>How long is the layover ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20713">
+        <recprompt>
+          <mediaitem>Where can I make a reservation ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20714">
+        <recprompt>
+          <mediaitem>Do you have a house wine ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20715">
+        <recprompt>
+          <mediaitem>About sparring ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20716">
+        <recprompt>
+          <mediaitem>May I have the name of your daughter , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20717">
+        <recprompt>
+          <mediaitem>It doesn &amp;apos;t fit .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20718">
+        <recprompt>
+          <mediaitem>When is the check-out time ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20719">
+        <recprompt>
+          <mediaitem>I &amp;apos;m getting off here .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20720">
+        <recprompt>
+          <mediaitem>We have dinner at seven o &amp;apos;clock .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20721">
+        <recprompt>
+          <mediaitem>We are now boarding .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20722">
+        <recprompt>
+          <mediaitem>I am majoring in economics .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20723">
+        <recprompt>
+          <mediaitem>She was short with blond hair .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20724">
+        <recprompt>
+          <mediaitem>Is that okay ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20725">
+        <recprompt>
+          <mediaitem>Thanks to your help , it was a great success .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20726">
+        <recprompt>
+          <mediaitem>I wonder if I could make a reservation for a taxi for tomorrow ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20727">
+        <recprompt>
+          <mediaitem>Hi , I &amp;apos;m Junko . I work in the public relations department . I &amp;apos;m new here .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20728">
+        <recprompt>
+          <mediaitem>I &amp;apos;m sorry , but I am in a hurry .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20729">
+        <recprompt>
+          <mediaitem>I didn &amp;apos;t order this .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20730">
+        <recprompt>
+          <mediaitem>Could you send this to Japan ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20731">
+        <recprompt>
+          <mediaitem>I would like to order room service .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20732">
+        <recprompt>
+          <mediaitem>How about some dessert ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20733">
+        <recprompt>
+          <mediaitem>When is the next bus to Seattle ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20734">
+        <recprompt>
+          <mediaitem>What is the rate there ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20735">
+        <recprompt>
+          <mediaitem>Okay . I &amp;apos;m looking forward to seeing you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20736">
+        <recprompt>
+          <mediaitem>Please void my card .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20737">
+        <recprompt>
+          <mediaitem>You are Mrs. Hearn , aren &amp;apos;t you ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20738">
+        <recprompt>
+          <mediaitem>Please stop at the next crossing .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20739">
+        <recprompt>
+          <mediaitem>Could I have a cigarette ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20740">
+        <recprompt>
+          <mediaitem>I see . Do you have a brochure ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20741">
+        <recprompt>
+          <mediaitem>Where are the elevators ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20742">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like some tissues .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20743">
+        <recprompt>
+          <mediaitem>Where are you from ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20744">
+        <recprompt>
+          <mediaitem>Is United flight eight five three on time ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20745">
+        <recprompt>
+          <mediaitem>Thank you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20746">
+        <recprompt>
+          <mediaitem>Your customs declaration , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20747">
+        <recprompt>
+          <mediaitem>Where should I change buses ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20748">
+        <recprompt>
+          <mediaitem>All aboard .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20749">
+        <recprompt>
+          <mediaitem>You gave me the wrong change .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20750">
+        <recprompt>
+          <mediaitem>I &amp;apos;m a beginner . May I join ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20751">
+        <recprompt>
+          <mediaitem>Three , three seven nine three , eight four seven one ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20752">
+        <recprompt>
+          <mediaitem>Do you have this in other colors ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20753">
+        <recprompt>
+          <mediaitem>Excuse me , but is this seat occupied ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20754">
+        <recprompt>
+          <mediaitem>The line is busy .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20755">
+        <recprompt>
+          <mediaitem>I have a tendency to gain weight .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20756">
+        <recprompt>
+          <mediaitem>It &amp;apos;s too dark .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20757">
+        <recprompt>
+          <mediaitem>Can I change this ticket to first class ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20758">
+        <recprompt>
+          <mediaitem>It &amp;apos;s kind of early .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20759">
+        <recprompt>
+          <mediaitem>No , we can not give you a discount with that card .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20760">
+        <recprompt>
+          <mediaitem>Yes , ma &amp;apos;am . Could you write in the total and sign here , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20761">
+        <recprompt>
+          <mediaitem>I have an earache .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20762">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like a reservation for two at seven o &amp;apos;clock .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20763">
+        <recprompt>
+          <mediaitem>Sorry .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20764">
+        <recprompt>
+          <mediaitem>How is business ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20765">
+        <recprompt>
+          <mediaitem>I &amp;apos;m sorry , but this tour is full .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20766">
+        <recprompt>
+          <mediaitem>Two diet Pepsis , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20767">
+        <recprompt>
+          <mediaitem>These earphones don &amp;apos;t seem to be working .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20768">
+        <recprompt>
+          <mediaitem>I can &amp;apos;t find the right translation .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20769">
+        <recprompt>
+          <mediaitem>How long is the flight ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20770">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to see some ruby rings .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20771">
+        <recprompt>
+          <mediaitem>I can &amp;apos;t find my seat .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20772">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to have a semi-dry wine , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20773">
+        <recprompt>
+          <mediaitem>May I smoke ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20774">
+        <recprompt>
+          <mediaitem>Chinese , French and Italian foods are also popular .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20775">
+        <recprompt>
+          <mediaitem>You &amp;apos;re welcome .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20776">
+        <recprompt>
+          <mediaitem>Who is he ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20777">
+        <recprompt>
+          <mediaitem>Why are you crying ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20778">
+        <recprompt>
+          <mediaitem>How should I pay the tuition ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20779">
+        <recprompt>
+          <mediaitem>Can I order a glass of red wine ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20780">
+        <recprompt>
+          <mediaitem>I believe that this is my seat .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20781">
+        <recprompt>
+          <mediaitem>Let &amp;apos;s share it .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20782">
+        <recprompt>
+          <mediaitem>Thank you . This is for you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20783">
+        <recprompt>
+          <mediaitem>How much in total ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20784">
+        <recprompt>
+          <mediaitem>It is a Fujica single-lens reflex camera .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20785">
+        <recprompt>
+          <mediaitem>I was in my room .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20786">
+        <recprompt>
+          <mediaitem>What &amp;apos;s on tonight ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20787">
+        <recprompt>
+          <mediaitem>How much is the fare from here to Hotel Fiat ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20788">
+        <recprompt>
+          <mediaitem>Someone snatched my purse .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20789">
+        <recprompt>
+          <mediaitem>This is my friend .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20790">
+        <recprompt>
+          <mediaitem>How much for a day ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20791">
+        <recprompt>
+          <mediaitem>I like it very much here .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20792">
+        <recprompt>
+          <mediaitem>Are there any public telephones near here ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20793">
+        <recprompt>
+          <mediaitem>What are your hobbies ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20794">
+        <recprompt>
+          <mediaitem>Can we move there ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20795">
+        <recprompt>
+          <mediaitem>Is there a guided tour ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20796">
+        <recprompt>
+          <mediaitem>Thirty-five D.</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20797">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll take this .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20798">
+        <recprompt>
+          <mediaitem>Just a glass of water , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20799">
+        <recprompt>
+          <mediaitem>A non-smoking car , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20800">
+        <recprompt>
+          <mediaitem>I have a reservation today .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20801">
+        <recprompt>
+          <mediaitem>I lost the room key .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20802">
+        <recprompt>
+          <mediaitem>A sightseeing map , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20803">
+        <recprompt>
+          <mediaitem>Does this bus go downtown ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20804">
+        <recprompt>
+          <mediaitem>Is the warranty valid in Japan ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20805">
+        <recprompt>
+          <mediaitem>Can I have another blanket , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20806">
+        <recprompt>
+          <mediaitem>Should I wear a jacket ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20807">
+        <recprompt>
+          <mediaitem>Hi . I &amp;apos;m Ichiro Tanaka , and I have a reservation for three nights from tonight .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20808">
+        <recprompt>
+          <mediaitem>I must be going now .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20809">
+        <recprompt>
+          <mediaitem>Hello , is this Northwest Airlines ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20810">
+        <recprompt>
+          <mediaitem>I don &amp;apos;t remember what happened .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20811">
+        <recprompt>
+          <mediaitem>How far is it from here ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20812">
+        <recprompt>
+          <mediaitem>That &amp;apos;s right .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20813">
+        <recprompt>
+          <mediaitem>Pepsi , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20814">
+        <recprompt>
+          <mediaitem>Please fill out this form . Will this be cash or credit ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20815">
+        <recprompt>
+          <mediaitem>How much will it be by sea mail ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20816">
+        <recprompt>
+          <mediaitem>I haven &amp;apos;t got any chips left .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20817">
+        <recprompt>
+          <mediaitem>Could I have a lift ticket for the day ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20818">
+        <recprompt>
+          <mediaitem>Seven o &amp;apos;clock , room seven twenty . All right , sir . Good night .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20819">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to order .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20820">
+        <recprompt>
+          <mediaitem>I sprained my wrist .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20821">
+        <recprompt>
+          <mediaitem>Do you have a swimming pool in the hotel ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20822">
+        <recprompt>
+          <mediaitem>What kind of seats would you like ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20823">
+        <recprompt>
+          <mediaitem>Stop here , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20824">
+        <recprompt>
+          <mediaitem>Can I use traveler &amp;apos;s checks ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20825">
+        <recprompt>
+          <mediaitem>At four thirty .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20826">
+        <recprompt>
+          <mediaitem>I &amp;apos;m not married .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20827">
+        <recprompt>
+          <mediaitem>Can I use traveler &amp;apos;s checks ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20828">
+        <recprompt>
+          <mediaitem>I think I have a fever .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20829">
+        <recprompt>
+          <mediaitem>Please give me a receipt .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20830">
+        <recprompt>
+          <mediaitem>Where is this made ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20831">
+        <recprompt>
+          <mediaitem>No .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20832">
+        <recprompt>
+          <mediaitem>Can I buy chips with a credit card ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20833">
+        <recprompt>
+          <mediaitem>When does the show start ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20834">
+        <recprompt>
+          <mediaitem>It &amp;apos;s ripped .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20835">
+        <recprompt>
+          <mediaitem>You need to see a specialist .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20836">
+        <recprompt>
+          <mediaitem>Nice to meet you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20837">
+        <recprompt>
+          <mediaitem>Yes , I have .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20838">
+        <recprompt>
+          <mediaitem>It &amp;apos;s too tight .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20839">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to get off at Kensington .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20840">
+        <recprompt>
+          <mediaitem>I had a traffic accident .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20841">
+        <recprompt>
+          <mediaitem>What &amp;apos;s today &amp;apos;s special ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20842">
+        <recprompt>
+          <mediaitem>No luck ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20843">
+        <recprompt>
+          <mediaitem>Are there any landmarks ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20844">
+        <recprompt>
+          <mediaitem>Is a seat in the smoking section all right ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20845">
+        <recprompt>
+          <mediaitem>Okay . We have flights starting at nine thirty in the morning &amp;apos; till six fifteen in the evening .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20846">
+        <recprompt>
+          <mediaitem>Can you make another hole in the belt , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20847">
+        <recprompt>
+          <mediaitem>Can I see a list of your rates ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20848">
+        <recprompt>
+          <mediaitem>This fish is rare in Japan .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20849">
+        <recprompt>
+          <mediaitem>It will take around three weeks .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20850">
+        <recprompt>
+          <mediaitem>Where shall I post this letter ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20851">
+        <recprompt>
+          <mediaitem>What nightclub would be good for us ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20852">
+        <recprompt>
+          <mediaitem>Where do you feel the pain ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20853">
+        <recprompt>
+          <mediaitem>Your total is five dollars and sixty-nine cents .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20854">
+        <recprompt>
+          <mediaitem>This percentage is far higher than the figures from previous surveys for sixteen other products .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20855">
+        <recprompt>
+          <mediaitem>What is the minimum purchase amount for which I can claim tax exemption ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20856">
+        <recprompt>
+          <mediaitem>May I have your name ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20857">
+        <recprompt>
+          <mediaitem>Is there a kitchen ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20858">
+        <recprompt>
+          <mediaitem>Wait a minute , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20859">
+        <recprompt>
+          <mediaitem>Where is the nearest bank ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20860">
+        <recprompt>
+          <mediaitem>Separate , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20861">
+        <recprompt>
+          <mediaitem>The loading mechanism doesn &amp;apos;t work .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20862">
+        <recprompt>
+          <mediaitem>I &amp;apos;ve got a flat .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20863">
+        <recprompt>
+          <mediaitem>Where &amp;apos;s the Japan Airline check-in counter ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20864">
+        <recprompt>
+          <mediaitem>Are you traveling alone ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20865">
+        <recprompt>
+          <mediaitem>Excuse me .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20866">
+        <recprompt>
+          <mediaitem>Thank you very much .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20867">
+        <recprompt>
+          <mediaitem>I &amp;apos;m sorry I &amp;apos;m late .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20868">
+        <recprompt>
+          <mediaitem>The light doesn &amp;apos;t work .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20869">
+        <recprompt>
+          <mediaitem>Good morning . How many in your party ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20870">
+        <recprompt>
+          <mediaitem>Do you have stamps ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20871">
+        <recprompt>
+          <mediaitem>How long does it take to get to the train station by taxi ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20872">
+        <recprompt>
+          <mediaitem>I like surfing . Do you know a good place for that ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20873">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll wait for you at the south exit .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20874">
+        <recprompt>
+          <mediaitem>Have you got ginger ale ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20875">
+        <recprompt>
+          <mediaitem>Please take a seat .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20876">
+        <recprompt>
+          <mediaitem>It &amp;apos;s a nice shirt .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20877">
+        <recprompt>
+          <mediaitem>Please do as you like .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20878">
+        <recprompt>
+          <mediaitem>What &amp;apos;s the matter ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20879">
+        <recprompt>
+          <mediaitem>Please tell me where to get off .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20880">
+        <recprompt>
+          <mediaitem>Yes , you certainly may . This is the form that you must fill out for your safe deposit box .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20881">
+        <recprompt>
+          <mediaitem>Will this take long to prepare ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20882">
+        <recprompt>
+          <mediaitem>Let &amp;apos;s take your temperature .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20883">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll take it .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20884">
+        <recprompt>
+          <mediaitem>Would you change the spare tire , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20885">
+        <recprompt>
+          <mediaitem>The rate is one hundred twenty yen to the dollar .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20886">
+        <recprompt>
+          <mediaitem>I &amp;apos;m not sure .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20887">
+        <recprompt>
+          <mediaitem>Not any better , but don &amp;apos;t worry , I gargle as often as possible .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20888">
+        <recprompt>
+          <mediaitem>Where are you calling from ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20889">
+        <recprompt>
+          <mediaitem>Could you remove this stain ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20890">
+        <recprompt>
+          <mediaitem>Two . I &amp;apos;d like to take this with me as carry-on baggage .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20891">
+        <recprompt>
+          <mediaitem>Do I have to pay an extra charge for the luggage ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20892">
+        <recprompt>
+          <mediaitem>Down this aisle , to your right .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20893">
+        <recprompt>
+          <mediaitem>Separate checks , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20894">
+        <recprompt>
+          <mediaitem>Do you like it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20895">
+        <recprompt>
+          <mediaitem>Is the shower available anytime ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20896">
+        <recprompt>
+          <mediaitem>What &amp;apos;s this charge , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20897">
+        <recprompt>
+          <mediaitem>I &amp;apos;m glad .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20898">
+        <recprompt>
+          <mediaitem>There &amp;apos;s a taxi stand up ahead , across the street .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20899">
+        <recprompt>
+          <mediaitem>Would you help me with my baggage ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20900">
+        <recprompt>
+          <mediaitem>Do you have time after this ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20901">
+        <recprompt>
+          <mediaitem>Thank you very much .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20902">
+        <recprompt>
+          <mediaitem>They are personal effects .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20903">
+        <recprompt>
+          <mediaitem>How are you ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20904">
+        <recprompt>
+          <mediaitem>My Japanese ring size is nine .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20905">
+        <recprompt>
+          <mediaitem>I &amp;apos;m sorry . I have something to do that day .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20906">
+        <recprompt>
+          <mediaitem>May I have a city map ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20907">
+        <recprompt>
+          <mediaitem>Would you call a doctor , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20908">
+        <recprompt>
+          <mediaitem>It &amp;apos;s been a long time , hasn &amp;apos;t it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20909">
+        <recprompt>
+          <mediaitem>I &amp;apos;ve had lots of fun .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20910">
+        <recprompt>
+          <mediaitem>It &amp;apos;s thirty dollars per person .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20911">
+        <recprompt>
+          <mediaitem>Could you take a message ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20912">
+        <recprompt>
+          <mediaitem>Shall we take a bus ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20913">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like a hamburger and a small French fries , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20914">
+        <recprompt>
+          <mediaitem>How much is it ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20915">
+        <recprompt>
+          <mediaitem>What kind of soft drinks do you have ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20916">
+        <recprompt>
+          <mediaitem>Please make a copy , and reduce it by fifteen percent .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20917">
+        <recprompt>
+          <mediaitem>Where is the nearest subway station ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20918">
+        <recprompt>
+          <mediaitem>No , we &amp;apos;d like a table in the hall .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20919">
+        <recprompt>
+          <mediaitem>How big was your bag ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20920">
+        <recprompt>
+          <mediaitem>Yes , here it is .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20921">
+        <recprompt>
+          <mediaitem>How beautiful this scenery is !</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20922">
+        <recprompt>
+          <mediaitem>When is the best time to call you ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20923">
+        <recprompt>
+          <mediaitem>Is there a coin laundry ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20924">
+        <recprompt>
+          <mediaitem>I &amp;apos;ve got a cold .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20925">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to see the cricket match .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20926">
+        <recprompt>
+          <mediaitem>I see . Thanks .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20927">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to have the money sent from T bank in Japan .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20928">
+        <recprompt>
+          <mediaitem>Would you care for seconds ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20929">
+        <recprompt>
+          <mediaitem>Are there any letters for me ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20930">
+        <recprompt>
+          <mediaitem>I do .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20931">
+        <recprompt>
+          <mediaitem>It &amp;apos;s three percent .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20932">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like my hair set .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20933">
+        <recprompt>
+          <mediaitem>Where do you come from ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20934">
+        <recprompt>
+          <mediaitem>I &amp;apos;m not sure .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20935">
+        <recprompt>
+          <mediaitem>Can you break this hundred dollar bill , please ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20936">
+        <recprompt>
+          <mediaitem>I was hit really hard here .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20937">
+        <recprompt>
+          <mediaitem>Tell me when we get there .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20938">
+        <recprompt>
+          <mediaitem>Please call the police .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20939">
+        <recprompt>
+          <mediaitem>Thank you . I enjoyed my stay .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20940">
+        <recprompt>
+          <mediaitem>No , it isn &amp;apos;t .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20941">
+        <recprompt>
+          <mediaitem>Does it include a visit to Disneyland ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20942">
+        <recprompt>
+          <mediaitem>Can I have an entry card ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20943">
+        <recprompt>
+          <mediaitem>Would you put a ribbon on for me ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20944">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like a rosary .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20945">
+        <recprompt>
+          <mediaitem>The room next door is too noisy .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20946">
+        <recprompt>
+          <mediaitem>Could you help me find my other suitcase ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20947">
+        <recprompt>
+          <mediaitem>Do you have suntan oil ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20948">
+        <recprompt>
+          <mediaitem>Call the police .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20949">
+        <recprompt>
+          <mediaitem>Would you check the room ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20950">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to reserve a room for tonight .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20951">
+        <recprompt>
+          <mediaitem>How far is Chicago from here ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20952">
+        <recprompt>
+          <mediaitem>Yes , I certainly will . Please don &amp;apos;t forget to write to me .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20953">
+        <recprompt>
+          <mediaitem>Coffee , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20954">
+        <recprompt>
+          <mediaitem>I have nothing to declare .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20955">
+        <recprompt>
+          <mediaitem>You &amp;apos;ve got the flu .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20956">
+        <recprompt>
+          <mediaitem>What spot do you recommend the most ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20957">
+        <recprompt>
+          <mediaitem>Someone is drowning over there .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20958">
+        <recprompt>
+          <mediaitem>Certainly , sir . We have some right over here . What size do you wear ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20959">
+        <recprompt>
+          <mediaitem>Thirty-two quarters and the rest in silver dollars , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20960">
+        <recprompt>
+          <mediaitem>Frankly speaking , I have never gambled before . What is the most popular type of gambling that even a beginner will enjoy ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20961">
+        <recprompt>
+          <mediaitem>I feel a bit better . Thank you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20962">
+        <recprompt>
+          <mediaitem>May I take pictures here ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20963">
+        <recprompt>
+          <mediaitem>Could you have it ready by Friday ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20964">
+        <recprompt>
+          <mediaitem>Is this tax-free ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20965">
+        <recprompt>
+          <mediaitem>My name &amp;apos;s Taro Tanaka .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20966">
+        <recprompt>
+          <mediaitem>Check , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20967">
+        <recprompt>
+          <mediaitem>Buffalo chicken wings ? Are you from Buffalo ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20968">
+        <recprompt>
+          <mediaitem>I don &amp;apos;t feel well .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20969">
+        <recprompt>
+          <mediaitem>Please keep my baggage until check-in time .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20970">
+        <recprompt>
+          <mediaitem>I am truly honored by the kindness and attention you have shown me today .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20971">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll have a steak .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20972">
+        <recprompt>
+          <mediaitem>Two waffles .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20973">
+        <recprompt>
+          <mediaitem>Do I pay now ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20974">
+        <recprompt>
+          <mediaitem>You can buy one at the station .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20975">
+        <recprompt>
+          <mediaitem>Help .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20976">
+        <recprompt>
+          <mediaitem>Do you have a room available for tonight ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20977">
+        <recprompt>
+          <mediaitem>It &amp;apos;s best to get off at Madison Square Garden and take a cab or walk from there .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20978">
+        <recprompt>
+          <mediaitem>Let me have one round-trip ticket .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20979">
+        <recprompt>
+          <mediaitem>Where are you going ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20980">
+        <recprompt>
+          <mediaitem>We find that there is an increasing demand for this type .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20981">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll pay in cash .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20982">
+        <recprompt>
+          <mediaitem>I &amp;apos;ve lost my plane ticket .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20983">
+        <recprompt>
+          <mediaitem>I &amp;apos;d like to send this parcel to Japan by sea .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20984">
+        <recprompt>
+          <mediaitem>How should I take this ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20985">
+        <recprompt>
+          <mediaitem>A single room , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20986">
+        <recprompt>
+          <mediaitem>Can I drop the car off in Los Angeles ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20987">
+        <recprompt>
+          <mediaitem>We &amp;apos;d like a hotel near downtown with twin rooms for under eighty dollars .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20988">
+        <recprompt>
+          <mediaitem>What &amp;apos;s the salad of the day ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20989">
+        <recprompt>
+          <mediaitem>Thank you , the same to you .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20990">
+        <recprompt>
+          <mediaitem>Overseas call , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20991">
+        <recprompt>
+          <mediaitem>I feel lost and helpless because the class is so fast-paced .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20992">
+        <recprompt>
+          <mediaitem>I have a letter of credit .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20993">
+        <recprompt>
+          <mediaitem>No , by airmail . How long will it take to reach Japan ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20994">
+        <recprompt>
+          <mediaitem>Fifteen dollars for women and twenty dollars for men .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20995">
+        <recprompt>
+          <mediaitem>I won &amp;apos;t eat it anymore .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20996">
+        <recprompt>
+          <mediaitem>How much in total ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20997">
+        <recprompt>
+          <mediaitem>How long does this tour take ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20998">
+        <recprompt>
+          <mediaitem>Damn it . What are you doing here ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_20999">
+        <recprompt>
+          <mediaitem>We &amp;apos;ll have them back to you in fifteen minutes . Is that okay ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21000">
+        <recprompt>
+          <mediaitem>We don &amp;apos;t have a reservation . There are two in our party . Can we get a table ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21001">
+        <recprompt>
+          <mediaitem>Do you have a discount for travelers ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21002">
+        <recprompt>
+          <mediaitem>I want to cancel a seat on PanAm flight five zero five at seven forty-five .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21003">
+        <recprompt>
+          <mediaitem>How much ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21004">
+        <recprompt>
+          <mediaitem>Can I exchange it for something else ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21005">
+        <recprompt>
+          <mediaitem>I &amp;apos;ll call him again .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21006">
+        <recprompt>
+          <mediaitem>I &amp;apos;m sorry , I can &amp;apos;t make it .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21007">
+        <recprompt>
+          <mediaitem>Coffee , please .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21008">
+        <recprompt>
+          <mediaitem>Please contact the police .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21009">
+        <recprompt>
+          <mediaitem>I &amp;apos;ve lost my transit card .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21010">
+        <recprompt>
+          <mediaitem>Is it open to beginners ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21011">
+        <recprompt>
+          <mediaitem>Don &amp;apos;t touch the coral .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21012">
+        <recprompt>
+          <mediaitem>Do you have rental bicycles ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21013">
+        <recprompt>
+          <mediaitem>There is no hot water .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21014">
+        <recprompt>
+          <mediaitem>She won the marathon .</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21015">
+        <recprompt>
+          <mediaitem>What time is it now ?</mediaitem>
+        </recprompt>
+      </recording>
+      <recording itemcode="demo_21016">
+        <recprompt>
+          <mediaitem>I &amp;apos;m sorry .</mediaitem>
+        </recprompt>
+      </recording>
+    </section>
+  </recordingscript>
+</script>
