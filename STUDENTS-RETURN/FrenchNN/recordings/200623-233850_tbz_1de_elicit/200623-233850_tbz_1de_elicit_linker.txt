@@ -1,0 +1,5 @@
+/storage/emulated/0/FrogStory/image06.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-233850_tbz_1de_elicit/200623-233850_tbz_1de_elicit_5.wav
+/storage/emulated/0/FrogStory/image07.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-233850_tbz_1de_elicit/200623-233850_tbz_1de_elicit_6.wav
+/storage/emulated/0/FrogStory/image08.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-233850_tbz_1de_elicit/200623-233850_tbz_1de_elicit_7.wav
+/storage/emulated/0/FrogStory/image09.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-233850_tbz_1de_elicit/200623-233850_tbz_1de_elicit_8.wav
+/storage/emulated/0/FrogStory/image10.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-233850_tbz_1de_elicit/200623-233850_tbz_1de_elicit_9.wav

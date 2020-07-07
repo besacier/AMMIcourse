@@ -1,0 +1,2 @@
+/storage/emulated/0/FrogStory/image04.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-111920_tbz_1de_elicit/200623-111920_tbz_1de_elicit_3.wav
+/storage/emulated/0/FrogStory/image05.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-111920_tbz_1de_elicit/200623-111920_tbz_1de_elicit_4.wav

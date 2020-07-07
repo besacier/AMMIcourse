@@ -1,0 +1,16 @@
+/storage/emulated/0/FrogStory/image11.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_10.wav
+/storage/emulated/0/FrogStory/image12.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_11.wav
+/storage/emulated/0/FrogStory/image13.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_12.wav
+/storage/emulated/0/FrogStory/image14.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_13.wav
+/storage/emulated/0/FrogStory/image15.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_14.wav
+/storage/emulated/0/FrogStory/image16.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_15.wav
+/storage/emulated/0/FrogStory/image17.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_16.wav
+/storage/emulated/0/FrogStory/image18.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_17.wav
+/storage/emulated/0/FrogStory/image19.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_18.wav
+/storage/emulated/0/FrogStory/image20.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_19.wav
+/storage/emulated/0/FrogStory/image21.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_20.wav
+/storage/emulated/0/FrogStory/image22.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_21.wav
+/storage/emulated/0/FrogStory/image23.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_22.wav
+/storage/emulated/0/FrogStory/image24.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_23.wav
+/storage/emulated/0/FrogStory/image25.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_24.wav
+/storage/emulated/0/FrogStory/image26.jpg ; /storage/emulated/0/ligaikuma/recordings/200623-234326_tbz_1de_elicit/200623-234326_tbz_1de_elicit_25.wav
