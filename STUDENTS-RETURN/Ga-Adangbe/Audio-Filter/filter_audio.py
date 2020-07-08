@@ -4,7 +4,7 @@ from pathlib import Path
 import shutil
 
 def main():
-    path = Path('/home/thompson/Documents/Speech-Recognition-for-the-Ga-Adangbe-Language/Audio')
+    path = Path('/home/thompson/Documents/Speech-Recognition-for-the-Ga-Adangbe-Language/Prepared DATA')
     audio_files = []
     for dirname, dirnames, filenames in os.walk(path):
         for filename in filenames:
@@ -36,7 +36,7 @@ def main():
             pass
     print('Total length: {} hours'.format(total_len/3600.0))
     print('read {} files out of {} files'.format(read_files, len(audio_files)))
-    #print(f"The number of corrupted files: {len(os.listdir(output_path))}")
+    print(f"The number of corrupted files: {len(os.listdir(output_path))}")
     
 
 if __name__ == "__main__":

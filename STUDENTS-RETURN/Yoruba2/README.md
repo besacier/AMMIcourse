@@ -1,4 +1,4 @@
-# Yoruba Speech Dataset for Low-Resource Speech Modelling
+# Yoruba Speech Dataset for Low-Resource Speech Tasks
 
 This repo contains over 3 hours of recorded yoruba text from 1 native yoruba male speaker.
 
@@ -10,7 +10,7 @@ Go to your terminal and enter;
 git clone https://github.com/ogunlao/yoruba_speech_project.git
 ```
 
-This adds a folder "yoruba_speech_project" to your local directory.
+This adds a folder called "yoruba_speech_project" which contain the files to your local directory.
 
 ## Statistics
 
@@ -55,17 +55,16 @@ Raw speech dataset split into;
 - Additional extra 1 hour of speech as extra data
 - each contained in `data/records/train`, `data/records/val`, `data/records/extra` respectively
 
-All preprocessing can be accessed through the notebook `yoruba_speech_preprocessing` and script `yor_processor`
+All preprocessing can be accessed through the notebook `yoruba_speech_preprocessing` and script `yor_processor.py`
 
 Note that a python installation is required with some dependencies;
 
 - numpy
 - wave
-- contextlib
 
 ## Application
 
-The dataset can be used majorly for low-resource speech modelling. An example is to learn a global representation using some high-resource data like LibriSpeech and fine-tune on this dataset for Speech-to-text.
+The dataset can be used majorly for low-resource speech model experiments or for cross-lingual ASR. Also, a pretrained models can be fine-tuned on this dataset to learn phonetic representations for yoruba language.
 
 ## Problems Encountered
 
@@ -76,7 +75,7 @@ The dataset can be used majorly for low-resource speech modelling. An example is
 
 ## Contributing
 
-If you will like to contribute to this project by recording more audio files, I have text files under `slit_text` folder where you can easily read short sentences. Upload the text files to the `lig-aikuma` android app and start recording. Currently at `yor_split_21` for this project. Make a pull requests afterwards.
+If you will like to contribute to this project by recording more audio files, I have text files under `slit_text` folder where you can easily read short sentences. Upload the text files to the `lig-aikuma` android app and start recording. Currently at `yor_split_21` for this project. You can make a pull request and I will be happy to add you to the project.
 
 ## Original Author
 
