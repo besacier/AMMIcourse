@@ -64,12 +64,12 @@ Note that a python installation is required with some dependencies;
 
 ## Application
 
-The dataset can be used majorly for low-resource speech model experiments or for cross-lingual ASR. Also, a pretrained models can be fine-tuned on this dataset to learn phonetic representations for yoruba language.
+The dataset can be used majorly for low-resource speech model experiments or for cross-lingual ASR. Also, a pretrained model can be fine-tuned on this dataset to learn phonetic representations for yoruba language.
 
 ## Problems Encountered
 
 - Difficulty in avoiding noise from environment when recording. Some recordings had to be performed multiple times to get a clearer audio
-- Few audio files were corrupted after recording. I had be filter them out during preprocessing. Be aware of this when using the raw (unprocessed) audio files.
+- Few audio files were corrupted after recording. I filtered them out during preprocessing. Be aware of this when using the raw (unprocessed) audio files.
 - Some words in text were difficult to pronounce without proper accents.
 - Recording speech takes time and can become uninteresting to perform quickly.
 
