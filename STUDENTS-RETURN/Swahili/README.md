@@ -7,6 +7,8 @@ The text used in this recording is from the book of Joshua in the Bible from Cha
 
 The repo contains the audio recorded on lig-aikuma and the preprocessed text elicited for recording the audio. It also contains the ASR model pretrained on the CPC_audio model.
 
+Collected by Clemencia Siro.
+
 
 
 
