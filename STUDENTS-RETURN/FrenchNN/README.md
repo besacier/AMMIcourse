@@ -1,6 +1,6 @@
 # Lig-Aikuma-Data-Collection
 This repository contains speech/text data collected using the Lig-Aikuma mobile App as well as some python notebooks 
-used throughout this project.
+used throughout this project. Collected by Jean N'dah Kouagou.
 # Data Collection
 In this project, the data was collected from the book Voyage au Japon by Dhammadána. The recordings were done using the Lig-Aikuma mobile App installed on my Huawei Honor 8X. It works by allowing the app to use your phone microphone to record speech. Before you download the app, please ensure that you check the android version of your phone first. Lig-Aikuma is user friendly and provides an excellent user interface for recording speech or elicitation of either images, videos or text.
 
