@@ -6,4 +6,6 @@ I used the Speech recodring software https://www.bas.uni-muenchen.de/Bas/softwar
 
 I will continue to record added words and sentences.
 
-Its under the MIT licence.
+Its under the MIT licence. 
+
+Collected by Seedy JOBE.
