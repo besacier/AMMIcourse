@@ -18,3 +18,5 @@ The dataset consists of the following sections:
 The dataset was recorded using LIG-Aikuma app and further processed for training purposes.
 
 The dataset was recorded by Ahmed M. Hassan, Who is a native arabic speaker and recorded in a relatively quiet environment. 
+
+Recorded by Zeinab Almahdi Mohammed Haroon.
