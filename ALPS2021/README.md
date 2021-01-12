@@ -1,6 +1,6 @@
 #  Course - laurent besacier - ALPS 2021
 
-# Lecture on self supervised representation learning for pre-training speech systems (3h)
+# Lecture on self supervised representation learning for pre-training speech systems (1h20)
 
 By Laurent Besacier, Naver Labs Europe and Univ. Grenoble Alpes
 
