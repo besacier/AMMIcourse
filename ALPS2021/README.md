@@ -27,6 +27,11 @@ Part7: https://youtu.be/hE9ODFChrvI (14mn)
 
 See you on Wed 20th January 2021 at 4PM (CET) for the Q&A (https://univ-grenoble-alpes-fr.zoom.us/j/9859529532) !
 
+During the Q&A we may also discuss about these most recent works published lately:
+-https://arxiv.org/abs/2006.11477
+-https://arxiv.org/abs/2006.13979
+-https://arxiv.org/abs/2011.00406
+-https://arxiv.org/abs/2101.00390
 
 
 
