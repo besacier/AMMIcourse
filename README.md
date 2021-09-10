@@ -95,8 +95,27 @@ You will be evaluated based on the quality and quantity of data recorded (and me
 
 If you encounter problems with lig-aikuma (no android phone/tablet to install it, problem with installation), you can use another recording software of your choice. For instance https://www.phon.ucl.ac.uk/resource/prorec/ (windows only) or  https://www.bas.uni-muenchen.de/Bas/software/speechrecorder/ (multiplatform) allow you to upload text prompts and then record them.
 
+# 3. Project outcome
 
+A post-course informal collaboration lead to the following paper published to the **AfricaNLP2021 workshop** !
 
+@article{DBLP:journals/corr/abs-2103-08993,
+  author    = {Jama Hussein Mohamud and
+               Lloyd Acquaye Thompson and
+               Aissatou Ndoye and
+               Laurent Besacier},
+  title     = {Fast Development of {ASR} in African Languages using Self Supervised
+               Speech Representation Learning},
+  journal   = {CoRR},
+  volume    = {abs/2103.08993},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2103.08993},
+  eprinttype = {arXiv},
+  eprint    = {2103.08993},
+  timestamp = {Tue, 23 Mar 2021 16:29:47 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2103-08993.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 
 
 
